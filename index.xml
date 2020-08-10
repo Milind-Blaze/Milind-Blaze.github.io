@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milind Kumar V</title>
-    <link>https://milind-blaze.github.io/</link>
-      <atom:link href="https://milind-blaze.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Milind-Blaze.github.io/</link>
+      <atom:link href="https://Milind-Blaze.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Milind Kumar V</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 17:54:00 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Milind Kumar V</title>
-      <link>https://milind-blaze.github.io/</link>
+      <link>https://Milind-Blaze.github.io/</link>
     </image>
     
     <item>
       <title>The Last Supper</title>
-      <link>https://milind-blaze.github.io/post/creative/the-last-supper/</link>
+      <link>https://Milind-Blaze.github.io/post/creative/the-last-supper/</link>
       <pubDate>Sun, 09 Aug 2020 17:54:00 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/post/creative/the-last-supper/</guid>
+      <guid>https://Milind-Blaze.github.io/post/creative/the-last-supper/</guid>
       <description>&lt;p&gt;As a graduating student, I was asked to write a piece for the Tapti Yearbook. This 
 &lt;a href=&#34;https://medium.com/@milind.blaze9/the-last-supper-441bfbe24604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; was a submission for the same. I sincerely hope you have as much fun reading it as I did writing it!&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Channel Estimation Using PDSCH DMRS </title>
-      <link>https://milind-blaze.github.io/project/research/5g-dmrs/</link>
+      <link>https://Milind-Blaze.github.io/project/research/5g-dmrs/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:58 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/5g-dmrs/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/5g-dmrs/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;DMRS symbols are generated according to the specifications in Section 7.4 of TS 38.211. This includes generation of DMRS symbols for either single or multiple ports, different configuration types, different types of PDSCH mapping and different types of resource allocation. Random M-QAM data is used to populate the empty subcarriers before transmission through a TDL channel (see TR 38.901). The received DMRS symbols are used to estimate the channel. The simulation supports multiple receive antennas as well. A comparison is made of the actual and estimated channel coefficients using suitable visualizations.&lt;/p&gt;
 &lt;p&gt;This work was completed as a part of the course 
@@ -36,9 +36,9 @@
     
     <item>
       <title>Receiver design and implementation for the Indigenous 5G Testbed</title>
-      <link>https://milind-blaze.github.io/project/research/5g-receiver/</link>
+      <link>https://Milind-Blaze.github.io/project/research/5g-receiver/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:48 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/5g-receiver/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/5g-receiver/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;5G technology is poised to bring about a wave of changes in the near future. An integral step in the process of developing 5G systems is performing extensive simulations to verify the efficacy of algorithms before they are implemented on hardware. This work presents the theoretical framework and design parameters associated with the simulation of an end to end communication system adhering to 5G NR specifications. Particular emphasis is laid on the examination of several channel estimation and equalization techniques which provide adequate performance- measured using bit error rate at a given signal to noise ratio- in the case of a multipath fading channel. Several key assumptions made to obtain a working simulation are presented in detail and steps to relax them and improve the simulation are highlighted. While the results do not lead to a conclusive decision regarding a superior method, they help identify extremely promising directions of research.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Documentation is available on request.&lt;/strong&gt;&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Half-duplex system design using USRP N321</title>
-      <link>https://milind-blaze.github.io/project/research/5g-half-duplex/</link>
+      <link>https://Milind-Blaze.github.io/project/research/5g-half-duplex/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:44 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/5g-half-duplex/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/5g-half-duplex/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This work develops a half duplex system operating at 122.88 MSPS and transmitting data generated according to 5G NR standards using a Universal Software Radio Peripheral (USRP). A half duplex system can both transmit and receive but can not do both simultaneously. Instead, the system transmits for a period of time and receives for the remaining. Therefore, the system is designed in three stages- transmitter, receiver and then integration of the two. Once designed, the USRP is expected to work in parallel with the existing Keysight systems used at the Testbed if not replace them. In this work, USRP N321 by Ettus Research is used. The USRP is a software defined radio that uses software as a substitute for components implemented in hardware. The accompanying technical report details the procedures involved in setting up the USRP- the associated software, interfacing and verification of function. This document also discusses the design of a transmitter and receiver using GNU Radio and the associated challenges. The designed systems are tested using a Vector Signal Analyzer (VSA) and Vector Signal Generator (VSG) and data that adheres to the 5G standards is generated using MATLAB.&lt;/p&gt;
 </description>
@@ -57,434 +57,434 @@
     
     <item>
       <title>Receiver Design for 5G NR</title>
-      <link>https://milind-blaze.github.io/talk/5g-receiver-design/</link>
+      <link>https://Milind-Blaze.github.io/talk/5g-receiver-design/</link>
       <pubDate>Mon, 13 Jul 2020 13:00:00 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/talk/5g-receiver-design/</guid>
+      <guid>https://Milind-Blaze.github.io/talk/5g-receiver-design/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Slides used and recording of the talk are available on request.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Animal Farm</title>
-      <link>https://milind-blaze.github.io/project/books/animal-farm/</link>
+      <link>https://Milind-Blaze.github.io/project/books/animal-farm/</link>
       <pubDate>Sat, 09 May 2020 21:18:37 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/animal-farm/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/animal-farm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Fall of Edward Barnard</title>
-      <link>https://milind-blaze.github.io/project/books/the-fall-of-edward-barnard/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-fall-of-edward-barnard/</link>
       <pubDate>Sat, 09 May 2020 18:29:44 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-fall-of-edward-barnard/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-fall-of-edward-barnard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heroes of the Valley</title>
-      <link>https://milind-blaze.github.io/project/books/heroes-of-the-valley/</link>
+      <link>https://Milind-Blaze.github.io/project/books/heroes-of-the-valley/</link>
       <pubDate>Sat, 09 May 2020 17:14:40 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/heroes-of-the-valley/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/heroes-of-the-valley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Glass Palace</title>
-      <link>https://milind-blaze.github.io/project/books/the-glass-palace/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-glass-palace/</link>
       <pubDate>Sat, 09 May 2020 14:57:28 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-glass-palace/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-glass-palace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autobiography of Soichiro Honda</title>
-      <link>https://milind-blaze.github.io/project/books/autobiography-of-soichiro-honda/</link>
+      <link>https://Milind-Blaze.github.io/project/books/autobiography-of-soichiro-honda/</link>
       <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/autobiography-of-soichiro-honda/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/autobiography-of-soichiro-honda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One Hundred Years of Solitude</title>
-      <link>https://milind-blaze.github.io/project/books/one-hundred-years-of-solitude/</link>
+      <link>https://Milind-Blaze.github.io/project/books/one-hundred-years-of-solitude/</link>
       <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/one-hundred-years-of-solitude/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/one-hundred-years-of-solitude/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Permanent Record</title>
-      <link>https://milind-blaze.github.io/project/books/permanent-record/</link>
+      <link>https://Milind-Blaze.github.io/project/books/permanent-record/</link>
       <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/permanent-record/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/permanent-record/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Fork, the Witch, and the Worm</title>
-      <link>https://milind-blaze.github.io/project/books/the-fork-the-witch-and-the-worm/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-fork-the-witch-and-the-worm/</link>
       <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-fork-the-witch-and-the-worm/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-fork-the-witch-and-the-worm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Poisonwood Bible</title>
-      <link>https://milind-blaze.github.io/project/books/the-poisonwood-bible/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-poisonwood-bible/</link>
       <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-poisonwood-bible/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-poisonwood-bible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immortality</title>
-      <link>https://milind-blaze.github.io/project/books/immortality/</link>
+      <link>https://Milind-Blaze.github.io/project/books/immortality/</link>
       <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/immortality/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/immortality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpreter of Maladies</title>
-      <link>https://milind-blaze.github.io/project/books/interpreter-of-maladies/</link>
+      <link>https://Milind-Blaze.github.io/project/books/interpreter-of-maladies/</link>
       <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/interpreter-of-maladies/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/interpreter-of-maladies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Surely You&#39;re Joking, Mr. Feynman!: Adventures of a Curious Character</title>
-      <link>https://milind-blaze.github.io/project/books/surely-youre-joking-mr-feynman/</link>
+      <link>https://Milind-Blaze.github.io/project/books/surely-youre-joking-mr-feynman/</link>
       <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/surely-youre-joking-mr-feynman/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/surely-youre-joking-mr-feynman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Namesake</title>
-      <link>https://milind-blaze.github.io/project/books/the-namesake/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-namesake/</link>
       <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-namesake/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-namesake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What the Dog Saw: And Other Adventures</title>
-      <link>https://milind-blaze.github.io/project/books/what-the-dog-saw-and-other-adventures/</link>
+      <link>https://Milind-Blaze.github.io/project/books/what-the-dog-saw-and-other-adventures/</link>
       <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/what-the-dog-saw-and-other-adventures/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/what-the-dog-saw-and-other-adventures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Song of Fire and Ice</title>
-      <link>https://milind-blaze.github.io/project/books/a-song-of-fire-and-ice/</link>
+      <link>https://Milind-Blaze.github.io/project/books/a-song-of-fire-and-ice/</link>
       <pubDate>Sat, 09 May 2020 14:57:25 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/a-song-of-fire-and-ice/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/a-song-of-fire-and-ice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hard Times</title>
-      <link>https://milind-blaze.github.io/project/books/hard-times/</link>
+      <link>https://Milind-Blaze.github.io/project/books/hard-times/</link>
       <pubDate>Sat, 09 May 2020 14:57:25 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/hard-times/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/hard-times/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pride and Prejudice</title>
-      <link>https://milind-blaze.github.io/project/books/pride-and-prejudice/</link>
+      <link>https://Milind-Blaze.github.io/project/books/pride-and-prejudice/</link>
       <pubDate>Sat, 09 May 2020 14:57:25 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/pride-and-prejudice/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/pride-and-prejudice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Count of Monte Cristo</title>
-      <link>https://milind-blaze.github.io/project/books/the-count-of-monte-cristo/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-count-of-monte-cristo/</link>
       <pubDate>Sat, 09 May 2020 14:57:25 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-count-of-monte-cristo/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-count-of-monte-cristo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Three Musketeers</title>
-      <link>https://milind-blaze.github.io/project/books/the-three-musketeers/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-three-musketeers/</link>
       <pubDate>Sat, 09 May 2020 14:57:25 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-three-musketeers/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-three-musketeers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Yearling</title>
-      <link>https://milind-blaze.github.io/project/books/the-yearling/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-yearling/</link>
       <pubDate>Sat, 09 May 2020 14:57:25 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-yearling/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-yearling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hercule Poirot</title>
-      <link>https://milind-blaze.github.io/project/books/hercule-poirot/</link>
+      <link>https://Milind-Blaze.github.io/project/books/hercule-poirot/</link>
       <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/hercule-poirot/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/hercule-poirot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Bourne Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-bourne-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-bourne-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-bourne-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-bourne-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Rediscovery of India</title>
-      <link>https://milind-blaze.github.io/project/books/the-rediscovery-of-india/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-rediscovery-of-india/</link>
       <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-rediscovery-of-india/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-rediscovery-of-india/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Robert Langdon Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-robert-langdon-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-robert-langdon-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-robert-langdon-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-robert-langdon-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Strange Angels Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-strange-angels-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-strange-angels-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-strange-angels-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-strange-angels-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Wereworld Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-wereworld-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-wereworld-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-wereworld-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-wereworld-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Confusion of Princes</title>
-      <link>https://milind-blaze.github.io/project/books/a-confusion-of-princes/</link>
+      <link>https://Milind-Blaze.github.io/project/books/a-confusion-of-princes/</link>
       <pubDate>Sat, 09 May 2020 14:57:23 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/a-confusion-of-princes/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/a-confusion-of-princes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>His Dark Materials</title>
-      <link>https://milind-blaze.github.io/project/books/his-dark-materials/</link>
+      <link>https://Milind-Blaze.github.io/project/books/his-dark-materials/</link>
       <pubDate>Sat, 09 May 2020 14:57:23 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/his-dark-materials/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/his-dark-materials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Alchemist</title>
-      <link>https://milind-blaze.github.io/project/books/the-alchemist/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-alchemist/</link>
       <pubDate>Sat, 09 May 2020 14:57:23 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-alchemist/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-alchemist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Bartimaeus Sequence</title>
-      <link>https://milind-blaze.github.io/project/books/the-bartimaeus-sequence/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-bartimaeus-sequence/</link>
       <pubDate>Sat, 09 May 2020 14:57:23 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-bartimaeus-sequence/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-bartimaeus-sequence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Five People You Meet in Heaven</title>
-      <link>https://milind-blaze.github.io/project/books/the-five-people-you-meet-in-heaven/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-five-people-you-meet-in-heaven/</link>
       <pubDate>Sat, 09 May 2020 14:57:23 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-five-people-you-meet-in-heaven/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-five-people-you-meet-in-heaven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hunger Games Trilogy</title>
-      <link>https://milind-blaze.github.io/project/books/the-hunger-games-trilogy/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-hunger-games-trilogy/</link>
       <pubDate>Sat, 09 May 2020 14:57:23 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-hunger-games-trilogy/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-hunger-games-trilogy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cry, the Beloved Country</title>
-      <link>https://milind-blaze.github.io/project/books/cry-the-beloved-country/</link>
+      <link>https://Milind-Blaze.github.io/project/books/cry-the-beloved-country/</link>
       <pubDate>Sat, 09 May 2020 14:57:22 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/cry-the-beloved-country/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/cry-the-beloved-country/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 39 Clues</title>
-      <link>https://milind-blaze.github.io/project/books/the-39-clues/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-39-clues/</link>
       <pubDate>Sat, 09 May 2020 14:57:22 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-39-clues/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-39-clues/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Artemis Fowl Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-artemis-fowl-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-artemis-fowl-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:22 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-artemis-fowl-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-artemis-fowl-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Host</title>
-      <link>https://milind-blaze.github.io/project/books/the-host/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-host/</link>
       <pubDate>Sat, 09 May 2020 14:57:22 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-host/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-host/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Twilight Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-twilight-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-twilight-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:22 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-twilight-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-twilight-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dragon Rider</title>
-      <link>https://milind-blaze.github.io/project/books/dragon-rider/</link>
+      <link>https://Milind-Blaze.github.io/project/books/dragon-rider/</link>
       <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/dragon-rider/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/dragon-rider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Heroes of Olympus Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-heroes-of-olympus-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-heroes-of-olympus-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-heroes-of-olympus-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-heroes-of-olympus-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Kane Chronicles</title>
-      <link>https://milind-blaze.github.io/project/books/the-kane-chronicles/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-kane-chronicles/</link>
       <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-kane-chronicles/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-kane-chronicles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Keys to the Kingdom Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-keys-to-the-kingdom-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-keys-to-the-kingdom-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-keys-to-the-kingdom-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-keys-to-the-kingdom-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Percy Jackson Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-percy-jackson-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-percy-jackson-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-percy-jackson-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-percy-jackson-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Power of Five Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-power-of-five-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-power-of-five-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-power-of-five-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-power-of-five-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Alex Rider Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-alex-rider-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-alex-rider-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:20 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-alex-rider-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-alex-rider-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Children of the Lamp Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-children-of-the-lamp-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-children-of-the-lamp-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:20 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-children-of-the-lamp-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-children-of-the-lamp-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Inkheart Trilogy</title>
-      <link>https://milind-blaze.github.io/project/books/the-inkheart-trilogy/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-inkheart-trilogy/</link>
       <pubDate>Sat, 09 May 2020 14:57:20 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-inkheart-trilogy/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-inkheart-trilogy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Molly Moon Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-molly-moon-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-molly-moon-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:20 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-molly-moon-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-molly-moon-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Underland Chronicles</title>
-      <link>https://milind-blaze.github.io/project/books/the-underland-chronicles/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-underland-chronicles/</link>
       <pubDate>Sat, 09 May 2020 14:57:20 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-underland-chronicles/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-underland-chronicles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pendragon: Journal of an Adventure through Time and Space</title>
-      <link>https://milind-blaze.github.io/project/books/pendragon-journal-of-adventure-through-time-and-space/</link>
+      <link>https://Milind-Blaze.github.io/project/books/pendragon-journal-of-adventure-through-time-and-space/</link>
       <pubDate>Sat, 09 May 2020 14:57:19 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/pendragon-journal-of-adventure-through-time-and-space/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/pendragon-journal-of-adventure-through-time-and-space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Harry Potter Series</title>
-      <link>https://milind-blaze.github.io/project/books/the-harry-potter-series/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-harry-potter-series/</link>
       <pubDate>Sat, 09 May 2020 14:57:19 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-harry-potter-series/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-harry-potter-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Inheritance Cycle</title>
-      <link>https://milind-blaze.github.io/project/books/the-inheritance-cycle/</link>
+      <link>https://Milind-Blaze.github.io/project/books/the-inheritance-cycle/</link>
       <pubDate>Sat, 09 May 2020 14:57:19 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/the-inheritance-cycle/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/the-inheritance-cycle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RACH, CORESET and Search Space in 5G NR</title>
-      <link>https://milind-blaze.github.io/talk/5g-rach-coreset/</link>
+      <link>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</link>
       <pubDate>Thu, 30 Apr 2020 13:00:00 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/talk/5g-rach-coreset/</guid>
+      <guid>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5G Testbed</title>
-      <link>https://milind-blaze.github.io/project/research/5g-testbed/</link>
+      <link>https://Milind-Blaze.github.io/project/research/5g-testbed/</link>
       <pubDate>Sun, 19 Apr 2020 22:12:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/5g-testbed/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/5g-testbed/</guid>
       <description>&lt;p&gt;At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -499,18 +499,18 @@
     
     <item>
       <title>8 Bit Microprocessor</title>
-      <link>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</link>
+      <link>https://Milind-Blaze.github.io/project/research/8-bit-microprocessor/</link>
       <pubDate>Sun, 19 Apr 2020 22:11:48 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/8-bit-microprocessor/</guid>
       <description>&lt;p&gt;An 8 bit microprocessor is simulated in this work using Verilog. It supports the add, subtract, bitwise AND, bitwise OR, left shift, right shift and compare operations. It also allows LOAD, STORE, MOV, LOAD DIRECT. This is accompanied by a Python based assembler. Two sample programs- one for the summation of the first few natural numbers and the second for factorial computation- are implemented on the simulated microprocessor.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Music Mood Annotation</title>
-      <link>https://milind-blaze.github.io/project/research/music-mood-annotation/</link>
+      <link>https://Milind-Blaze.github.io/project/research/music-mood-annotation/</link>
       <pubDate>Sun, 19 Apr 2020 22:00:18 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/music-mood-annotation/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/music-mood-annotation/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Automatic  annotation  of  music  with  emotion labels is a challenging task owing to the subjectivity of emotions associated with music. Much of this work focuses on creating a sizeable dataset with sufficient annotations that tackles the issue of  subjectivity  adequately.  By  combining  pre-existing  datasets with discrete and continuous emotion labels, a dataset with 79 hours worth of audio is obtained. All the audios are represented as  points  in  the  valence-arousal  plane  and  are  then  clustered into four classes for the purpose of developing classifiers. CNNs which use mel spectrograms as inputs are the primary focus of this  work.  A  maximum  accuracy  of  50.89%  is  obtained  in  the four-class  classification  task  with  accuracies  in  the  individual tasks  of  valence  and  arousal  classifications  being  70.8%  and 71.7%  respectively.&lt;/p&gt;
 </description>
@@ -518,9 +518,9 @@
     
     <item>
       <title>Source Separation</title>
-      <link>https://milind-blaze.github.io/project/research/source-separation/</link>
+      <link>https://Milind-Blaze.github.io/project/research/source-separation/</link>
       <pubDate>Sun, 19 Apr 2020 22:00:07 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/source-separation/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/source-separation/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/vc-WlAqv17c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -533,9 +533,9 @@
     
     <item>
       <title>Laser beam position tracking for LIGO</title>
-      <link>https://milind-blaze.github.io/project/research/ligo/</link>
+      <link>https://Milind-Blaze.github.io/project/research/ligo/</link>
       <pubDate>Sat, 18 Apr 2020 16:25:16 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/ligo/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/ligo/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;LIGO  interferometers  used  to  detect  gravitational  waves  achieve  extremely  high sensitivity  through  precise  angular  control  of  suspended  optics  that  direct  the  laser beam.  A host of sensing techniques, ranging from optical levers and wavefront sensors to suitably positioned quadrant photodiodes are used to detect the angular position and deviation of optics. This work attempts to introduce the use of Gigabit Ethernet (GigE) cameras capturing images of light scattered from optics to determine the position of the laser beam on the optic.  A number of approaches based on tools from image processing are employed to discern the motion of the beam spot from video.  They are found to be unreliable and discarded in favour of convolutional neural networks which can, in theory, learn any complex, non-linear mapping.  These are trained on data generated at the 40m laboratory at Caltech and the results are analysed.&lt;/p&gt;
 &lt;!-- Would be nice to set up a gallery.	 --&gt;</description>
@@ -543,26 +543,26 @@
     
     <item>
       <title>System Information Acquisition in 5G NR</title>
-      <link>https://milind-blaze.github.io/talk/5g-system-information/</link>
+      <link>https://Milind-Blaze.github.io/talk/5g-system-information/</link>
       <pubDate>Tue, 03 Mar 2020 13:00:00 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/talk/5g-system-information/</guid>
+      <guid>https://Milind-Blaze.github.io/talk/5g-system-information/</guid>
       <description>&lt;p&gt;Some of this work was done in association with Kanish B.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Laser Beam Position Tracking for LIGO Interferometers</title>
-      <link>https://milind-blaze.github.io/talk/ligo-surf/</link>
+      <link>https://Milind-Blaze.github.io/talk/ligo-surf/</link>
       <pubDate>Fri, 26 Jul 2019 13:00:56 -0700</pubDate>
-      <guid>https://milind-blaze.github.io/talk/ligo-surf/</guid>
+      <guid>https://Milind-Blaze.github.io/talk/ligo-surf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolve 2019</title>
-      <link>https://milind-blaze.github.io/project/events/evolve2019/</link>
+      <link>https://Milind-Blaze.github.io/project/events/evolve2019/</link>
       <pubDate>Sun, 05 May 2019 11:40:42 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/events/evolve2019/</guid>
+      <guid>https://Milind-Blaze.github.io/project/events/evolve2019/</guid>
       <description>&lt;p&gt;Shaastra is IIT Madras&amp;rsquo; four day annual technical festival. Almost entirely student run, it encompasses a number of educational events and competitions for the technically inclined, lectures on a myriad of topics ranging from neuroscience and AI to policy and art for those seeking knowledge and four evening shows that are simply superb spectacles.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -777,17 +777,17 @@
     
     <item>
       <title>Projects</title>
-      <link>https://milind-blaze.github.io/my_projects/</link>
+      <link>https://Milind-Blaze.github.io/my_projects/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://milind-blaze.github.io/my_projects/</guid>
+      <guid>https://Milind-Blaze.github.io/my_projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolve 2018</title>
-      <link>https://milind-blaze.github.io/project/events/evolve2018/</link>
+      <link>https://Milind-Blaze.github.io/project/events/evolve2018/</link>
       <pubDate>Sat, 05 May 2018 11:40:46 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/events/evolve2018/</guid>
+      <guid>https://Milind-Blaze.github.io/project/events/evolve2018/</guid>
       <description>&lt;p&gt;Shaastra is IIT Madras&amp;rsquo; four day annual technical festival. Almost entirely student run, it encompasses a number of educational events and competitions for the technically inclined, lectures on a myriad of topics ranging from neuroscience and AI to policy and art for those seeking knowledge and four evening shows that are simply superb spectacles. Evolve is a team within Shaastra that traditionally has three departments- Spotlight which organizes lectures, Summit which generally focuses on one or two themes and puts together conference style events and related competitions and a third department that does something unique every year.&lt;/p&gt;
 &lt;p&gt;Spotlight organizes lectures- both live and virtual- starting in August and right until the end of Shaastra. Speakers are invited from across the world to deliver a lecture at IIT Madras via emails, calls and using a number of other networking strategies. Spotlight often collaborates with other organizations and conferences such as 
 &lt;a href=&#34;https://ccbr.iitmadras.in/workshops&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Computational Brain Research&lt;/a&gt; and the Indian Science Congress. Over the course of the four days of Shaastra, Spotlight sees an audience of about four thousand at IIT Madras and even more online. Speakers at Shaastra 2018 are featured below.&lt;/p&gt;
@@ -805,9 +805,9 @@
     
     <item>
       <title>CoEdu India</title>
-      <link>https://milind-blaze.github.io/project/events/coedu2020/</link>
+      <link>https://Milind-Blaze.github.io/project/events/coedu2020/</link>
       <pubDate>Sat, 07 Apr 2018 16:51:32 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/events/coedu2020/</guid>
+      <guid>https://Milind-Blaze.github.io/project/events/coedu2020/</guid>
       <description>&lt;p&gt;The Covid-19 pandemic has disrupted life throughout the world. One area of life that has witnessed dramatic change with the ubiquitous shift to online communication is education. Schools throughout India are attempting to rapidly shift to online teaching and the period of transition can often be difficult for both students and teachers alike. 
 &lt;a href=&#34;https://www.notion.so/CoEdu-India-ddc0acad378b46acac02991e4fe0361f#0b768b0f1af6464aa03872ec29083d8e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoEdu&lt;/a&gt; attempts to fill this void by bringing together students from different streams of engineering and at different levels of study (undergraduate or graduate) from IIT Madras and connecting them to schools and schoolchildren who can benefit from their expertise. While subjects traditionally covered in a school are presented to make up for the lack of in person teaching, great emphasis is also placed on introducing children from classes 8-12 to subjects such as AI or equip them with skills such as coding in order to enable them to comprehend, and contribute to, the technology driven world of the future. We also aspire to accomodate individual mentoring for students in the near future. As someone passionate about education, working with this team has allowed me to experience firsthand the challenges of making knowledge accessible and the excitement of teaching.&lt;/p&gt;
 </description>
@@ -815,9 +815,9 @@
     
     <item>
       <title>Inter IIT Sports meet Organizing Team</title>
-      <link>https://milind-blaze.github.io/project/events/inter-iit/</link>
+      <link>https://Milind-Blaze.github.io/project/events/inter-iit/</link>
       <pubDate>Fri, 01 Dec 2017 11:40:53 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/events/inter-iit/</guid>
+      <guid>https://Milind-Blaze.github.io/project/events/inter-iit/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/3_7_w6HuJJQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -829,33 +829,33 @@
     
     <item>
       <title>Internet Reading</title>
-      <link>https://milind-blaze.github.io/internet_reading/</link>
+      <link>https://Milind-Blaze.github.io/internet_reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://milind-blaze.github.io/internet_reading/</guid>
+      <guid>https://Milind-Blaze.github.io/internet_reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://milind-blaze.github.io/personal/</link>
+      <link>https://Milind-Blaze.github.io/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://milind-blaze.github.io/personal/</guid>
+      <guid>https://Milind-Blaze.github.io/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reading list</title>
-      <link>https://milind-blaze.github.io/my_reading/</link>
+      <link>https://Milind-Blaze.github.io/my_reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://milind-blaze.github.io/my_reading/</guid>
+      <guid>https://Milind-Blaze.github.io/my_reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://milind-blaze.github.io/my_talks/</link>
+      <link>https://Milind-Blaze.github.io/my_talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://milind-blaze.github.io/my_talks/</guid>
+      <guid>https://Milind-Blaze.github.io/my_talks/</guid>
       <description></description>
     </item>
     

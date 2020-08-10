@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agatha Christie | Milind Kumar V</title>
-    <link>https://milind-blaze.github.io/tags/agatha-christie/</link>
-      <atom:link href="https://milind-blaze.github.io/tags/agatha-christie/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Milind-Blaze.github.io/tags/agatha-christie/</link>
+      <atom:link href="https://Milind-Blaze.github.io/tags/agatha-christie/index.xml" rel="self" type="application/rss+xml" />
     <description>Agatha Christie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:24 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Agatha Christie</title>
-      <link>https://milind-blaze.github.io/tags/agatha-christie/</link>
+      <link>https://Milind-Blaze.github.io/tags/agatha-christie/</link>
     </image>
     
     <item>
       <title>Hercule Poirot</title>
-      <link>https://milind-blaze.github.io/project/books/hercule-poirot/</link>
+      <link>https://Milind-Blaze.github.io/project/books/hercule-poirot/</link>
       <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/books/hercule-poirot/</guid>
+      <guid>https://Milind-Blaze.github.io/project/books/hercule-poirot/</guid>
       <description></description>
     </item>
     

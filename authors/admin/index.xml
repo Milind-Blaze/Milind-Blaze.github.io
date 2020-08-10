@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milind Kumar V</title>
-    <link>https://milind-blaze.github.io/authors/admin/</link>
-      <atom:link href="https://milind-blaze.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Milind-Blaze.github.io/authors/admin/</link>
+      <atom:link href="https://Milind-Blaze.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Milind Kumar V</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Milind Kumar V</title>
-      <link>https://milind-blaze.github.io/authors/admin/</link>
+      <link>https://Milind-Blaze.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title>The Last Supper</title>
-      <link>https://milind-blaze.github.io/post/creative/the-last-supper/</link>
+      <link>https://Milind-Blaze.github.io/post/creative/the-last-supper/</link>
       <pubDate>Sun, 09 Aug 2020 17:54:00 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/post/creative/the-last-supper/</guid>
+      <guid>https://Milind-Blaze.github.io/post/creative/the-last-supper/</guid>
       <description>&lt;p&gt;As a graduating student, I was asked to write a piece for the Tapti Yearbook. This 
 &lt;a href=&#34;https://medium.com/@milind.blaze9/the-last-supper-441bfbe24604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; was a submission for the same. I sincerely hope you have as much fun reading it as I did writing it!&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Channel Estimation Using PDSCH DMRS </title>
-      <link>https://milind-blaze.github.io/project/research/5g-dmrs/</link>
+      <link>https://Milind-Blaze.github.io/project/research/5g-dmrs/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:58 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/5g-dmrs/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/5g-dmrs/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;DMRS symbols are generated according to the specifications in Section 7.4 of TS 38.211. This includes generation of DMRS symbols for either single or multiple ports, different configuration types, different types of PDSCH mapping and different types of resource allocation. Random M-QAM data is used to populate the empty subcarriers before transmission through a TDL channel (see TR 38.901). The received DMRS symbols are used to estimate the channel. The simulation supports multiple receive antennas as well. A comparison is made of the actual and estimated channel coefficients using suitable visualizations.&lt;/p&gt;
 &lt;p&gt;This work was completed as a part of the course 
@@ -36,9 +36,9 @@
     
     <item>
       <title>Receiver design and implementation for the Indigenous 5G Testbed</title>
-      <link>https://milind-blaze.github.io/project/research/5g-receiver/</link>
+      <link>https://Milind-Blaze.github.io/project/research/5g-receiver/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:48 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/5g-receiver/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/5g-receiver/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;5G technology is poised to bring about a wave of changes in the near future. An integral step in the process of developing 5G systems is performing extensive simulations to verify the efficacy of algorithms before they are implemented on hardware. This work presents the theoretical framework and design parameters associated with the simulation of an end to end communication system adhering to 5G NR specifications. Particular emphasis is laid on the examination of several channel estimation and equalization techniques which provide adequate performance- measured using bit error rate at a given signal to noise ratio- in the case of a multipath fading channel. Several key assumptions made to obtain a working simulation are presented in detail and steps to relax them and improve the simulation are highlighted. While the results do not lead to a conclusive decision regarding a superior method, they help identify extremely promising directions of research.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Documentation is available on request.&lt;/strong&gt;&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Half-duplex system design using USRP N321</title>
-      <link>https://milind-blaze.github.io/project/research/5g-half-duplex/</link>
+      <link>https://Milind-Blaze.github.io/project/research/5g-half-duplex/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:44 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/5g-half-duplex/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/5g-half-duplex/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This work develops a half duplex system operating at 122.88 MSPS and transmitting data generated according to 5G NR standards using a Universal Software Radio Peripheral (USRP). A half duplex system can both transmit and receive but can not do both simultaneously. Instead, the system transmits for a period of time and receives for the remaining. Therefore, the system is designed in three stages- transmitter, receiver and then integration of the two. Once designed, the USRP is expected to work in parallel with the existing Keysight systems used at the Testbed if not replace them. In this work, USRP N321 by Ettus Research is used. The USRP is a software defined radio that uses software as a substitute for components implemented in hardware. The accompanying technical report details the procedures involved in setting up the USRP- the associated software, interfacing and verification of function. This document also discusses the design of a transmitter and receiver using GNU Radio and the associated challenges. The designed systems are tested using a Vector Signal Analyzer (VSA) and Vector Signal Generator (VSG) and data that adheres to the 5G standards is generated using MATLAB.&lt;/p&gt;
 </description>
@@ -57,26 +57,26 @@
     
     <item>
       <title>Receiver Design for 5G NR</title>
-      <link>https://milind-blaze.github.io/talk/5g-receiver-design/</link>
+      <link>https://Milind-Blaze.github.io/talk/5g-receiver-design/</link>
       <pubDate>Mon, 13 Jul 2020 13:00:00 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/talk/5g-receiver-design/</guid>
+      <guid>https://Milind-Blaze.github.io/talk/5g-receiver-design/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Slides used and recording of the talk are available on request.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RACH, CORESET and Search Space in 5G NR</title>
-      <link>https://milind-blaze.github.io/talk/5g-rach-coreset/</link>
+      <link>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</link>
       <pubDate>Thu, 30 Apr 2020 13:00:00 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/talk/5g-rach-coreset/</guid>
+      <guid>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5G Testbed</title>
-      <link>https://milind-blaze.github.io/project/research/5g-testbed/</link>
+      <link>https://Milind-Blaze.github.io/project/research/5g-testbed/</link>
       <pubDate>Sun, 19 Apr 2020 22:12:24 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/5g-testbed/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/5g-testbed/</guid>
       <description>&lt;p&gt;At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -91,18 +91,18 @@
     
     <item>
       <title>8 Bit Microprocessor</title>
-      <link>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</link>
+      <link>https://Milind-Blaze.github.io/project/research/8-bit-microprocessor/</link>
       <pubDate>Sun, 19 Apr 2020 22:11:48 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/8-bit-microprocessor/</guid>
       <description>&lt;p&gt;An 8 bit microprocessor is simulated in this work using Verilog. It supports the add, subtract, bitwise AND, bitwise OR, left shift, right shift and compare operations. It also allows LOAD, STORE, MOV, LOAD DIRECT. This is accompanied by a Python based assembler. Two sample programs- one for the summation of the first few natural numbers and the second for factorial computation- are implemented on the simulated microprocessor.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Music Mood Annotation</title>
-      <link>https://milind-blaze.github.io/project/research/music-mood-annotation/</link>
+      <link>https://Milind-Blaze.github.io/project/research/music-mood-annotation/</link>
       <pubDate>Sun, 19 Apr 2020 22:00:18 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/music-mood-annotation/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/music-mood-annotation/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Automatic  annotation  of  music  with  emotion labels is a challenging task owing to the subjectivity of emotions associated with music. Much of this work focuses on creating a sizeable dataset with sufficient annotations that tackles the issue of  subjectivity  adequately.  By  combining  pre-existing  datasets with discrete and continuous emotion labels, a dataset with 79 hours worth of audio is obtained. All the audios are represented as  points  in  the  valence-arousal  plane  and  are  then  clustered into four classes for the purpose of developing classifiers. CNNs which use mel spectrograms as inputs are the primary focus of this  work.  A  maximum  accuracy  of  50.89%  is  obtained  in  the four-class  classification  task  with  accuracies  in  the  individual tasks  of  valence  and  arousal  classifications  being  70.8%  and 71.7%  respectively.&lt;/p&gt;
 </description>
@@ -110,9 +110,9 @@
     
     <item>
       <title>Source Separation</title>
-      <link>https://milind-blaze.github.io/project/research/source-separation/</link>
+      <link>https://Milind-Blaze.github.io/project/research/source-separation/</link>
       <pubDate>Sun, 19 Apr 2020 22:00:07 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/research/source-separation/</guid>
+      <guid>https://Milind-Blaze.github.io/project/research/source-separation/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/vc-WlAqv17c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -125,26 +125,26 @@
     
     <item>
       <title>System Information Acquisition in 5G NR</title>
-      <link>https://milind-blaze.github.io/talk/5g-system-information/</link>
+      <link>https://Milind-Blaze.github.io/talk/5g-system-information/</link>
       <pubDate>Tue, 03 Mar 2020 13:00:00 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/talk/5g-system-information/</guid>
+      <guid>https://Milind-Blaze.github.io/talk/5g-system-information/</guid>
       <description>&lt;p&gt;Some of this work was done in association with Kanish B.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Laser Beam Position Tracking for LIGO Interferometers</title>
-      <link>https://milind-blaze.github.io/talk/ligo-surf/</link>
+      <link>https://Milind-Blaze.github.io/talk/ligo-surf/</link>
       <pubDate>Fri, 26 Jul 2019 13:00:56 -0700</pubDate>
-      <guid>https://milind-blaze.github.io/talk/ligo-surf/</guid>
+      <guid>https://Milind-Blaze.github.io/talk/ligo-surf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolve 2019</title>
-      <link>https://milind-blaze.github.io/project/events/evolve2019/</link>
+      <link>https://Milind-Blaze.github.io/project/events/evolve2019/</link>
       <pubDate>Sun, 05 May 2019 11:40:42 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/events/evolve2019/</guid>
+      <guid>https://Milind-Blaze.github.io/project/events/evolve2019/</guid>
       <description>&lt;p&gt;Shaastra is IIT Madras&amp;rsquo; four day annual technical festival. Almost entirely student run, it encompasses a number of educational events and competitions for the technically inclined, lectures on a myriad of topics ranging from neuroscience and AI to policy and art for those seeking knowledge and four evening shows that are simply superb spectacles.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -359,9 +359,9 @@
     
     <item>
       <title>Evolve 2018</title>
-      <link>https://milind-blaze.github.io/project/events/evolve2018/</link>
+      <link>https://Milind-Blaze.github.io/project/events/evolve2018/</link>
       <pubDate>Sat, 05 May 2018 11:40:46 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/events/evolve2018/</guid>
+      <guid>https://Milind-Blaze.github.io/project/events/evolve2018/</guid>
       <description>&lt;p&gt;Shaastra is IIT Madras&amp;rsquo; four day annual technical festival. Almost entirely student run, it encompasses a number of educational events and competitions for the technically inclined, lectures on a myriad of topics ranging from neuroscience and AI to policy and art for those seeking knowledge and four evening shows that are simply superb spectacles. Evolve is a team within Shaastra that traditionally has three departments- Spotlight which organizes lectures, Summit which generally focuses on one or two themes and puts together conference style events and related competitions and a third department that does something unique every year.&lt;/p&gt;
 &lt;p&gt;Spotlight organizes lectures- both live and virtual- starting in August and right until the end of Shaastra. Speakers are invited from across the world to deliver a lecture at IIT Madras via emails, calls and using a number of other networking strategies. Spotlight often collaborates with other organizations and conferences such as 
 &lt;a href=&#34;https://ccbr.iitmadras.in/workshops&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Computational Brain Research&lt;/a&gt; and the Indian Science Congress. Over the course of the four days of Shaastra, Spotlight sees an audience of about four thousand at IIT Madras and even more online. Speakers at Shaastra 2018 are featured below.&lt;/p&gt;
@@ -379,9 +379,9 @@
     
     <item>
       <title>CoEdu India</title>
-      <link>https://milind-blaze.github.io/project/events/coedu2020/</link>
+      <link>https://Milind-Blaze.github.io/project/events/coedu2020/</link>
       <pubDate>Sat, 07 Apr 2018 16:51:32 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/events/coedu2020/</guid>
+      <guid>https://Milind-Blaze.github.io/project/events/coedu2020/</guid>
       <description>&lt;p&gt;The Covid-19 pandemic has disrupted life throughout the world. One area of life that has witnessed dramatic change with the ubiquitous shift to online communication is education. Schools throughout India are attempting to rapidly shift to online teaching and the period of transition can often be difficult for both students and teachers alike. 
 &lt;a href=&#34;https://www.notion.so/CoEdu-India-ddc0acad378b46acac02991e4fe0361f#0b768b0f1af6464aa03872ec29083d8e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoEdu&lt;/a&gt; attempts to fill this void by bringing together students from different streams of engineering and at different levels of study (undergraduate or graduate) from IIT Madras and connecting them to schools and schoolchildren who can benefit from their expertise. While subjects traditionally covered in a school are presented to make up for the lack of in person teaching, great emphasis is also placed on introducing children from classes 8-12 to subjects such as AI or equip them with skills such as coding in order to enable them to comprehend, and contribute to, the technology driven world of the future. We also aspire to accomodate individual mentoring for students in the near future. As someone passionate about education, working with this team has allowed me to experience firsthand the challenges of making knowledge accessible and the excitement of teaching.&lt;/p&gt;
 </description>
@@ -389,9 +389,9 @@
     
     <item>
       <title>Inter IIT Sports meet Organizing Team</title>
-      <link>https://milind-blaze.github.io/project/events/inter-iit/</link>
+      <link>https://Milind-Blaze.github.io/project/events/inter-iit/</link>
       <pubDate>Fri, 01 Dec 2017 11:40:53 +0530</pubDate>
-      <guid>https://milind-blaze.github.io/project/events/inter-iit/</guid>
+      <guid>https://Milind-Blaze.github.io/project/events/inter-iit/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/3_7_w6HuJJQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
