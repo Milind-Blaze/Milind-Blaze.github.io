@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Feynman | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/richard-feynman/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/richard-feynman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Feynman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:26 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Richard Feynman</title>
+      <link>https://milind-blaze.github.io/tags/richard-feynman/</link>
+    </image>
+    
+    <item>
+      <title>Surely You&#39;re Joking, Mr. Feynman!: Adventures of a Curious Character</title>
+      <link>https://milind-blaze.github.io/project/books/surely-youre-joking-mr-feynman/</link>
+      <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/surely-youre-joking-mr-feynman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Orwell | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/george-orwell/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/george-orwell/index.xml" rel="self" type="application/rss+xml" />
+    <description>George Orwell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 21:18:37 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>George Orwell</title>
+      <link>https://milind-blaze.github.io/tags/george-orwell/</link>
+    </image>
+    
+    <item>
+      <title>Animal Farm</title>
+      <link>https://milind-blaze.github.io/project/books/animal-farm/</link>
+      <pubDate>Sat, 09 May 2020 21:18:37 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/animal-farm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

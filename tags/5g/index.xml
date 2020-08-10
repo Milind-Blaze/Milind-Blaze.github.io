@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5G | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/5g/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/5g/index.xml" rel="self" type="application/rss+xml" />
+    <description>5G</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2020 15:42:58 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>5G</title>
+      <link>https://milind-blaze.github.io/tags/5g/</link>
+    </image>
+    
+    <item>
+      <title>Channel Estimation Using PDSCH DMRS </title>
+      <link>https://milind-blaze.github.io/project/research/5g-dmrs/</link>
+      <pubDate>Wed, 05 Aug 2020 15:42:58 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/5g-dmrs/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;DMRS symbols are generated according to the specifications in Section 7.4 of TS 38.211. This includes generation of DMRS symbols for either single or multiple ports, different configuration types, different types of PDSCH mapping and different types of resource allocation. Random M-QAM data is used to populate the empty subcarriers before transmission through a TDL channel (see TR 38.901). The received DMRS symbols are used to estimate the channel. The simulation supports multiple receive antennas as well. A comparison is made of the actual and estimated channel coefficients using suitable visualizations.&lt;/p&gt;
+&lt;p&gt;This work was completed as a part of the course 
+&lt;a href=&#34;https://github.com/Milind-Blaze/EE6143_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EE6143&lt;/a&gt; at IIT Madras.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Receiver design and implementation for the Indigenous 5G Testbed</title>
+      <link>https://milind-blaze.github.io/project/research/5g-receiver/</link>
+      <pubDate>Wed, 05 Aug 2020 15:42:48 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/5g-receiver/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;5G technology is poised to bring about a wave of changes in the near future. An integral step in the process of developing 5G systems is performing extensive simulations to verify the efficacy of algorithms before they are implemented on hardware. This work presents the theoretical framework and design parameters associated with the simulation of an end to end communication system adhering to 5G NR specifications. Particular emphasis is laid on the examination of several channel estimation and equalization techniques which provide adequate performance- measured using bit error rate at a given signal to noise ratio- in the case of a multipath fading channel. Several key assumptions made to obtain a working simulation are presented in detail and steps to relax them and improve the simulation are highlighted. While the results do not lead to a conclusive decision regarding a superior method, they help identify extremely promising directions of research.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Documentation is available on request.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Half-duplex system design using USRP N321</title>
+      <link>https://milind-blaze.github.io/project/research/5g-half-duplex/</link>
+      <pubDate>Wed, 05 Aug 2020 15:42:44 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/5g-half-duplex/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This work develops a half duplex system operating at 122.88 MSPS and transmitting data generated according to 5G NR standards using a Universal Software Radio Peripheral (USRP). A half duplex system can both transmit and receive but can not do both simultaneously. Instead, the system transmits for a period of time and receives for the remaining. Therefore, the system is designed in three stages- transmitter, receiver and then integration of the two. Once designed, the USRP is expected to work in parallel with the existing Keysight systems used at the Testbed if not replace them. In this work, USRP N321 by Ettus Research is used. The USRP is a software defined radio that uses software as a substitute for components implemented in hardware. The accompanying technical report details the procedures involved in setting up the USRP- the associated software, interfacing and verification of function. This document also discusses the design of a transmitter and receiver using GNU Radio and the associated challenges. The designed systems are tested using a Vector Signal Analyzer (VSA) and Vector Signal Generator (VSG) and data that adheres to the 5G standards is generated using MATLAB.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Receiver Design for 5G NR</title>
+      <link>https://milind-blaze.github.io/talk/5g-receiver-design/</link>
+      <pubDate>Mon, 13 Jul 2020 13:00:00 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/talk/5g-receiver-design/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Slides used and recording of the talk are available on request.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RACH, CORESET and Search Space in 5G NR</title>
+      <link>https://milind-blaze.github.io/talk/5g-rach-coreset/</link>
+      <pubDate>Thu, 30 Apr 2020 13:00:00 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/talk/5g-rach-coreset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5G Testbed</title>
+      <link>https://milind-blaze.github.io/project/research/5g-testbed/</link>
+      <pubDate>Sun, 19 Apr 2020 22:12:24 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/5g-testbed/</guid>
+      <description>&lt;p&gt;At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-receiver&#34;&gt;Receiver design and implementation for the Indigenous 5G Testbed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-half-duplex&#34;&gt;Half-duplex system design using USRP N321&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-dmrs&#34;&gt;MIMO channel estimation using PDSCH DMRS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System Information Acquisition in 5G NR</title>
+      <link>https://milind-blaze.github.io/talk/5g-system-information/</link>
+      <pubDate>Tue, 03 Mar 2020 13:00:00 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/talk/5g-system-information/</guid>
+      <description>&lt;p&gt;Some of this work was done in association with Kanish B.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

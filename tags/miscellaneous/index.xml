@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/miscellaneous/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miscellaneous</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 22:11:48 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Miscellaneous</title>
+      <link>https://milind-blaze.github.io/tags/miscellaneous/</link>
+    </image>
+    
+    <item>
+      <title>8 Bit Microprocessor</title>
+      <link>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</link>
+      <pubDate>Sun, 19 Apr 2020 22:11:48 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</guid>
+      <description>&lt;p&gt;An 8 bit microprocessor is simulated in this work using Verilog. It supports the add, subtract, bitwise AND, bitwise OR, left shift, right shift and compare operations. It also allows LOAD, STORE, MOV, LOAD DIRECT. This is accompanied by a Python based assembler. Two sample programs- one for the summation of the first few natural numbers and the second for factorial computation- are implemented on the simulated microprocessor.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

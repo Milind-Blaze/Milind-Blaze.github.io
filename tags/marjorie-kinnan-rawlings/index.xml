@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marjorie Kinnan Rawlings | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/marjorie-kinnan-rawlings/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/marjorie-kinnan-rawlings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marjorie Kinnan Rawlings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:25 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marjorie Kinnan Rawlings</title>
+      <link>https://milind-blaze.github.io/tags/marjorie-kinnan-rawlings/</link>
+    </image>
+    
+    <item>
+      <title>The Yearling</title>
+      <link>https://milind-blaze.github.io/project/books/the-yearling/</link>
+      <pubDate>Sat, 09 May 2020 14:57:25 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-yearling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

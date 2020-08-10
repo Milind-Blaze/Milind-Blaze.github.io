@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suzanne Collins | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/suzanne-collins/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/suzanne-collins/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suzanne Collins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:23 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Suzanne Collins</title>
+      <link>https://milind-blaze.github.io/tags/suzanne-collins/</link>
+    </image>
+    
+    <item>
+      <title>The Hunger Games Trilogy</title>
+      <link>https://milind-blaze.github.io/project/books/the-hunger-games-trilogy/</link>
+      <pubDate>Sat, 09 May 2020 14:57:23 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-hunger-games-trilogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Underland Chronicles</title>
+      <link>https://milind-blaze.github.io/project/books/the-underland-chronicles/</link>
+      <pubDate>Sat, 09 May 2020 14:57:20 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-underland-chronicles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

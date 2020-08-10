@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rick Riordan | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/rick-riordan/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/rick-riordan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rick Riordan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:22 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rick Riordan</title>
+      <link>https://milind-blaze.github.io/tags/rick-riordan/</link>
+    </image>
+    
+    <item>
+      <title>The 39 Clues</title>
+      <link>https://milind-blaze.github.io/project/books/the-39-clues/</link>
+      <pubDate>Sat, 09 May 2020 14:57:22 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-39-clues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Heroes of Olympus Series</title>
+      <link>https://milind-blaze.github.io/project/books/the-heroes-of-olympus-series/</link>
+      <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-heroes-of-olympus-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kane Chronicles</title>
+      <link>https://milind-blaze.github.io/project/books/the-kane-chronicles/</link>
+      <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-kane-chronicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Percy Jackson Series</title>
+      <link>https://milind-blaze.github.io/project/books/the-percy-jackson-series/</link>
+      <pubDate>Sat, 09 May 2020 14:57:21 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-percy-jackson-series/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

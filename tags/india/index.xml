@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>India | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/india/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/india/index.xml" rel="self" type="application/rss+xml" />
+    <description>India</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:28 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>India</title>
+      <link>https://milind-blaze.github.io/tags/india/</link>
+    </image>
+    
+    <item>
+      <title>The Glass Palace</title>
+      <link>https://milind-blaze.github.io/project/books/the-glass-palace/</link>
+      <pubDate>Sat, 09 May 2020 14:57:28 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-glass-palace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpreter of Maladies</title>
+      <link>https://milind-blaze.github.io/project/books/interpreter-of-maladies/</link>
+      <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/interpreter-of-maladies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Namesake</title>
+      <link>https://milind-blaze.github.io/project/books/the-namesake/</link>
+      <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-namesake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rediscovery of India</title>
+      <link>https://milind-blaze.github.io/project/books/the-rediscovery-of-india/</link>
+      <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-rediscovery-of-india/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

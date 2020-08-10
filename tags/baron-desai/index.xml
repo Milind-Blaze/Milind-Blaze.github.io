@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baron Desai | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/baron-desai/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/baron-desai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Baron Desai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:24 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Baron Desai</title>
+      <link>https://milind-blaze.github.io/tags/baron-desai/</link>
+    </image>
+    
+    <item>
+      <title>The Rediscovery of India</title>
+      <link>https://milind-blaze.github.io/project/books/the-rediscovery-of-india/</link>
+      <pubDate>Sat, 09 May 2020 14:57:24 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-rediscovery-of-india/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

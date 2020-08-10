@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/project/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 22:12:24 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Project</title>
+      <link>https://milind-blaze.github.io/tags/project/</link>
+    </image>
+    
+    <item>
+      <title>5G Testbed</title>
+      <link>https://milind-blaze.github.io/project/research/5g-testbed/</link>
+      <pubDate>Sun, 19 Apr 2020 22:12:24 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/5g-testbed/</guid>
+      <description>&lt;p&gt;At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-receiver&#34;&gt;Receiver design and implementation for the Indigenous 5G Testbed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-half-duplex&#34;&gt;Half-duplex system design using USRP N321&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-dmrs&#34;&gt;MIMO channel estimation using PDSCH DMRS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8 Bit Microprocessor</title>
+      <link>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</link>
+      <pubDate>Sun, 19 Apr 2020 22:11:48 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</guid>
+      <description>&lt;p&gt;An 8 bit microprocessor is simulated in this work using Verilog. It supports the add, subtract, bitwise AND, bitwise OR, left shift, right shift and compare operations. It also allows LOAD, STORE, MOV, LOAD DIRECT. This is accompanied by a Python based assembler. Two sample programs- one for the summation of the first few natural numbers and the second for factorial computation- are implemented on the simulated microprocessor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Mood Annotation</title>
+      <link>https://milind-blaze.github.io/project/research/music-mood-annotation/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:18 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/music-mood-annotation/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Automatic  annotation  of  music  with  emotion labels is a challenging task owing to the subjectivity of emotions associated with music. Much of this work focuses on creating a sizeable dataset with sufficient annotations that tackles the issue of  subjectivity  adequately.  By  combining  pre-existing  datasets with discrete and continuous emotion labels, a dataset with 79 hours worth of audio is obtained. All the audios are represented as  points  in  the  valence-arousal  plane  and  are  then  clustered into four classes for the purpose of developing classifiers. CNNs which use mel spectrograms as inputs are the primary focus of this  work.  A  maximum  accuracy  of  50.89%  is  obtained  in  the four-class  classification  task  with  accuracies  in  the  individual tasks  of  valence  and  arousal  classifications  being  70.8%  and 71.7%  respectively.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Source Separation</title>
+      <link>https://milind-blaze.github.io/project/research/source-separation/</link>
+      <pubDate>Sun, 19 Apr 2020 22:00:07 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/source-separation/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/vc-WlAqv17c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Blind signal separation or source separation refers to the separation of each of the individual sources from a mixture of sources given little or no prior information about the source components. This has been a topic of great study and several techniques relying on matrix methods exist for this task. Non-negative matrix factorization is one such technique popularly used for its representational power and ease of implementation. In this work, NMF is introduced, the central algorithm based on multiplicative update rules is discussed and a comparison is drawn between local implementations of the algorithm and the implementation in scikit-learn. Following this, variants of the original algorithm utilising priors of sparseness and temporal continuity are used to perform source separation on mixtures of musical notes. The variation of the signal to noise ratio (SNR) is studied for different variants of NMF, different windows and window lengths and different weights of the sparseness and temporal continuity cost functions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser beam position tracking for LIGO</title>
+      <link>https://milind-blaze.github.io/project/research/ligo/</link>
+      <pubDate>Sat, 18 Apr 2020 16:25:16 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/ligo/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;LIGO  interferometers  used  to  detect  gravitational  waves  achieve  extremely  high sensitivity  through  precise  angular  control  of  suspended  optics  that  direct  the  laser beam.  A host of sensing techniques, ranging from optical levers and wavefront sensors to suitably positioned quadrant photodiodes are used to detect the angular position and deviation of optics. This work attempts to introduce the use of Gigabit Ethernet (GigE) cameras capturing images of light scattered from optics to determine the position of the laser beam on the optic.  A number of approaches based on tools from image processing are employed to discern the motion of the beam spot from video.  They are found to be unreliable and discarded in favour of convolutional neural networks which can, in theory, learn any complex, non-linear mapping.  These are trained on data generated at the 40m laboratory at Caltech and the results are analysed.&lt;/p&gt;
+&lt;!-- Would be nice to set up a gallery.	 --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George R. R. Martin | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/george-r.-r.-martin/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/george-r.-r.-martin/index.xml" rel="self" type="application/rss+xml" />
+    <description>George R. R. Martin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:25 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>George R. R. Martin</title>
+      <link>https://milind-blaze.github.io/tags/george-r.-r.-martin/</link>
+    </image>
+    
+    <item>
+      <title>A Song of Fire and Ice</title>
+      <link>https://milind-blaze.github.io/project/books/a-song-of-fire-and-ice/</link>
+      <pubDate>Sat, 09 May 2020 14:57:25 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/a-song-of-fire-and-ice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

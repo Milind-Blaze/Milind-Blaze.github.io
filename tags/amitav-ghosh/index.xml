@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amitav Ghosh | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/amitav-ghosh/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/amitav-ghosh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amitav Ghosh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:28 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Amitav Ghosh</title>
+      <link>https://milind-blaze.github.io/tags/amitav-ghosh/</link>
+    </image>
+    
+    <item>
+      <title>The Glass Palace</title>
+      <link>https://milind-blaze.github.io/project/books/the-glass-palace/</link>
+      <pubDate>Sat, 09 May 2020 14:57:28 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-glass-palace/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

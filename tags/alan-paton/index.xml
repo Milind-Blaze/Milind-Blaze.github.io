@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Paton | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/alan-paton/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/alan-paton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan Paton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:22 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alan Paton</title>
+      <link>https://milind-blaze.github.io/tags/alan-paton/</link>
+    </image>
+    
+    <item>
+      <title>Cry, the Beloved Country</title>
+      <link>https://milind-blaze.github.io/project/books/cry-the-beloved-country/</link>
+      <pubDate>Sat, 09 May 2020 14:57:22 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/cry-the-beloved-country/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

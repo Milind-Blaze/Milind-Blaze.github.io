@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent reading | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/recent-reading/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/recent-reading/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent reading</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:28 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Recent reading</title>
+      <link>https://milind-blaze.github.io/tags/recent-reading/</link>
+    </image>
+    
+    <item>
+      <title>The Glass Palace</title>
+      <link>https://milind-blaze.github.io/project/books/the-glass-palace/</link>
+      <pubDate>Sat, 09 May 2020 14:57:28 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-glass-palace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autobiography of Soichiro Honda</title>
+      <link>https://milind-blaze.github.io/project/books/autobiography-of-soichiro-honda/</link>
+      <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/autobiography-of-soichiro-honda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Hundred Years of Solitude</title>
+      <link>https://milind-blaze.github.io/project/books/one-hundred-years-of-solitude/</link>
+      <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/one-hundred-years-of-solitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Fork, the Witch, and the Worm</title>
+      <link>https://milind-blaze.github.io/project/books/the-fork-the-witch-and-the-worm/</link>
+      <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-fork-the-witch-and-the-worm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Poisonwood Bible</title>
+      <link>https://milind-blaze.github.io/project/books/the-poisonwood-bible/</link>
+      <pubDate>Sat, 09 May 2020 14:57:27 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/the-poisonwood-bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What the Dog Saw: And Other Adventures</title>
+      <link>https://milind-blaze.github.io/project/books/what-the-dog-saw-and-other-adventures/</link>
+      <pubDate>Sat, 09 May 2020 14:57:26 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/what-the-dog-saw-and-other-adventures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

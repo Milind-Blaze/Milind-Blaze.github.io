@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/hardware/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hardware</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2020 15:42:44 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hardware</title>
+      <link>https://milind-blaze.github.io/tags/hardware/</link>
+    </image>
+    
+    <item>
+      <title>Half-duplex system design using USRP N321</title>
+      <link>https://milind-blaze.github.io/project/research/5g-half-duplex/</link>
+      <pubDate>Wed, 05 Aug 2020 15:42:44 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/5g-half-duplex/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This work develops a half duplex system operating at 122.88 MSPS and transmitting data generated according to 5G NR standards using a Universal Software Radio Peripheral (USRP). A half duplex system can both transmit and receive but can not do both simultaneously. Instead, the system transmits for a period of time and receives for the remaining. Therefore, the system is designed in three stages- transmitter, receiver and then integration of the two. Once designed, the USRP is expected to work in parallel with the existing Keysight systems used at the Testbed if not replace them. In this work, USRP N321 by Ettus Research is used. The USRP is a software defined radio that uses software as a substitute for components implemented in hardware. The accompanying technical report details the procedures involved in setting up the USRP- the associated software, interfacing and verification of function. This document also discusses the design of a transmitter and receiver using GNU Radio and the associated challenges. The designed systems are tested using a Vector Signal Analyzer (VSA) and Vector Signal Generator (VSG) and data that adheres to the 5G standards is generated using MATLAB.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5G Testbed</title>
+      <link>https://milind-blaze.github.io/project/research/5g-testbed/</link>
+      <pubDate>Sun, 19 Apr 2020 22:12:24 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/5g-testbed/</guid>
+      <description>&lt;p&gt;At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-receiver&#34;&gt;Receiver design and implementation for the Indigenous 5G Testbed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-half-duplex&#34;&gt;Half-duplex system design using USRP N321&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../5g-dmrs&#34;&gt;MIMO channel estimation using PDSCH DMRS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8 Bit Microprocessor</title>
+      <link>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</link>
+      <pubDate>Sun, 19 Apr 2020 22:11:48 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/8-bit-microprocessor/</guid>
+      <description>&lt;p&gt;An 8 bit microprocessor is simulated in this work using Verilog. It supports the add, subtract, bitwise AND, bitwise OR, left shift, right shift and compare operations. It also allows LOAD, STORE, MOV, LOAD DIRECT. This is accompanied by a Python based assembler. Two sample programs- one for the summation of the first few natural numbers and the second for factorial computation- are implemented on the simulated microprocessor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser beam position tracking for LIGO</title>
+      <link>https://milind-blaze.github.io/project/research/ligo/</link>
+      <pubDate>Sat, 18 Apr 2020 16:25:16 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/research/ligo/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;LIGO  interferometers  used  to  detect  gravitational  waves  achieve  extremely  high sensitivity  through  precise  angular  control  of  suspended  optics  that  direct  the  laser beam.  A host of sensing techniques, ranging from optical levers and wavefront sensors to suitably positioned quadrant photodiodes are used to detect the angular position and deviation of optics. This work attempts to introduce the use of Gigabit Ethernet (GigE) cameras capturing images of light scattered from optics to determine the position of the laser beam on the optic.  A number of approaches based on tools from image processing are employed to discern the motion of the beam spot from video.  They are found to be unreliable and discarded in favour of convolutional neural networks which can, in theory, learn any complex, non-linear mapping.  These are trained on data generated at the 40m laboratory at Caltech and the results are analysed.&lt;/p&gt;
+&lt;!-- Would be nice to set up a gallery.	 --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Laser Beam Position Tracking for LIGO Interferometers</title>
+      <link>https://milind-blaze.github.io/talk/ligo-surf/</link>
+      <pubDate>Fri, 26 Jul 2019 13:00:56 -0700</pubDate>
+      <guid>https://milind-blaze.github.io/talk/ligo-surf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

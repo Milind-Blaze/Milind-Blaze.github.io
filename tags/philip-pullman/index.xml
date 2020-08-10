@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Pullman | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/tags/philip-pullman/</link>
+      <atom:link href="https://milind-blaze.github.io/tags/philip-pullman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip Pullman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 14:57:23 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Philip Pullman</title>
+      <link>https://milind-blaze.github.io/tags/philip-pullman/</link>
+    </image>
+    
+    <item>
+      <title>His Dark Materials</title>
+      <link>https://milind-blaze.github.io/project/books/his-dark-materials/</link>
+      <pubDate>Sat, 09 May 2020 14:57:23 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/project/books/his-dark-materials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

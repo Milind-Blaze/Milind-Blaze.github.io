@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Milind Kumar V</title>
+    <link>https://milind-blaze.github.io/talk/</link>
+      <atom:link href="https://milind-blaze.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://milind-blaze.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Receiver Design for 5G NR</title>
+      <link>https://milind-blaze.github.io/talk/5g-receiver-design/</link>
+      <pubDate>Mon, 13 Jul 2020 13:00:00 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/talk/5g-receiver-design/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Slides used and recording of the talk are available on request.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RACH, CORESET and Search Space in 5G NR</title>
+      <link>https://milind-blaze.github.io/talk/5g-rach-coreset/</link>
+      <pubDate>Thu, 30 Apr 2020 13:00:00 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/talk/5g-rach-coreset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System Information Acquisition in 5G NR</title>
+      <link>https://milind-blaze.github.io/talk/5g-system-information/</link>
+      <pubDate>Tue, 03 Mar 2020 13:00:00 +0530</pubDate>
+      <guid>https://milind-blaze.github.io/talk/5g-system-information/</guid>
+      <description>&lt;p&gt;Some of this work was done in association with Kanish B.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser Beam Position Tracking for LIGO Interferometers</title>
+      <link>https://milind-blaze.github.io/talk/ligo-surf/</link>
+      <pubDate>Fri, 26 Jul 2019 13:00:56 -0700</pubDate>
+      <guid>https://milind-blaze.github.io/talk/ligo-surf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
