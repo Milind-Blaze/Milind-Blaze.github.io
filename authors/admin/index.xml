@@ -13,6 +13,18 @@
     </image>
     
     <item>
+      <title>Magma Installation on Ubuntu 20.04</title>
+      <link>https://Milind-Blaze.github.io/post/research/install-magma-ubuntu-20.04/</link>
+      <pubDate>Tue, 03 May 2022 12:00:00 +0530</pubDate>
+      <guid>https://Milind-Blaze.github.io/post/research/install-magma-ubuntu-20.04/</guid>
+      <description>&lt;p&gt;Magma is an open source network core that supports both 4G and 5G. While the primary
+development environment is MacOS, it is also supported on Ubuntu. 
+&lt;a href=&#34;https://magmacore.org/blog/magma-installation-on-ubuntu-20-04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This blog post&lt;/a&gt; is guide for the
+installation of Magma on Ubuntu 20.04.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Great Derangement: Climate Change and the Unthinkable- Impressions</title>
       <link>https://Milind-Blaze.github.io/talk/others/the-great-derangement/</link>
       <pubDate>Sun, 06 Sep 2020 20:00:00 +0530</pubDate>
