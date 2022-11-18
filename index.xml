@@ -5,12 +5,20 @@
     <link>https://Milind-Blaze.github.io/</link>
       <atom:link href="https://Milind-Blaze.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Milind Kumar V</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 12:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 20:30:00 +0530</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Milind Kumar V</title>
       <link>https://Milind-Blaze.github.io/</link>
     </image>
+    
+    <item>
+      <title>Trust-free service measurement and payments for decentralized cellular networks</title>
+      <link>https://Milind-Blaze.github.io/publication/hotnets-2022/</link>
+      <pubDate>Tue, 15 Nov 2022 20:30:00 +0530</pubDate>
+      <guid>https://Milind-Blaze.github.io/publication/hotnets-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Magma Installation on Ubuntu 20.04</title>
@@ -868,6 +876,14 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
       <link>https://Milind-Blaze.github.io/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Milind-Blaze.github.io/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://Milind-Blaze.github.io/my_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Milind-Blaze.github.io/my_publications/</guid>
       <description></description>
     </item>
     
