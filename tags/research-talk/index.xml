@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Talk | Milind Kumar V</title>
+    <link>https://Milind-Blaze.github.io/tags/research-talk/</link>
+      <atom:link href="https://Milind-Blaze.github.io/tags/research-talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Talk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 13:00:00 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Research Talk</title>
+      <link>https://Milind-Blaze.github.io/tags/research-talk/</link>
+    </image>
+    
+    <item>
+      <title>Receiver Design for 5G NR</title>
+      <link>https://Milind-Blaze.github.io/talk/5g-receiver-design/</link>
+      <pubDate>Mon, 13 Jul 2020 13:00:00 +0530</pubDate>
+      <guid>https://Milind-Blaze.github.io/talk/5g-receiver-design/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Slides used and recording of the talk are available on request.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser Beam Position Tracking for LIGO Interferometers</title>
+      <link>https://Milind-Blaze.github.io/talk/ligo-surf/</link>
+      <pubDate>Fri, 26 Jul 2019 13:00:56 -0700</pubDate>
+      <guid>https://Milind-Blaze.github.io/talk/ligo-surf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

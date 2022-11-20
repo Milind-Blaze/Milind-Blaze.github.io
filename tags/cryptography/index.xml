@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography | Milind Kumar V</title>
+    <link>https://Milind-Blaze.github.io/tags/cryptography/</link>
+      <atom:link href="https://Milind-Blaze.github.io/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cryptography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Dec 2021 16:00:00 -0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Cryptography</title>
+      <link>https://Milind-Blaze.github.io/tags/cryptography/</link>
+    </image>
+    
+    <item>
+      <title>VSSE: application to FOIA</title>
+      <link>https://Milind-Blaze.github.io/talk/vsse-foia/</link>
+      <pubDate>Wed, 08 Dec 2021 16:00:00 -0600</pubDate>
+      <guid>https://Milind-Blaze.github.io/talk/vsse-foia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

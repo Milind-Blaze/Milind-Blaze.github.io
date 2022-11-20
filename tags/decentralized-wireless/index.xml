@@ -5,7 +5,7 @@
     <link>https://Milind-Blaze.github.io/tags/decentralized-wireless/</link>
       <atom:link href="https://Milind-Blaze.github.io/tags/decentralized-wireless/index.xml" rel="self" type="application/rss+xml" />
     <description>Decentralized Wireless</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 20:30:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 22:28:55 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Decentralized Wireless</title>
@@ -13,7 +13,38 @@
     </image>
     
     <item>
-      <title>Trust-free service measurement and payments for decentralized cellular networks</title>
+      <title>Summary Slides: Building Flexible, Low-Cost Wireless Access Networks With Magma</title>
+      <link>https://Milind-Blaze.github.io/post/research/magma22/</link>
+      <pubDate>Sun, 20 Nov 2022 22:28:55 +0530</pubDate>
+      <guid>https://Milind-Blaze.github.io/post/research/magma22/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;Building Flexible, Low-Cost Wireless Access Networks With Magma&amp;rdquo; paper by the Magma team describes, in some detail, the architectural design principles of Magma and its performance. As a promising open source network core adding new features constantly, it is quite central to the decentralized wireless ecosystem. These summary slides attempt to capture this and position Magma amidst a number of accompanying endeavours- predecessors like CCM and successors like 
+&lt;a href=&#34;https://www.shaddih.com/papers/cellbricks-sigcomm21.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellBricks&lt;/a&gt; and 
+&lt;a href=&#34;https://witnesschain.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Witness Chain&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Click on the slides button above for the slides!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Decentralized Wireless</title>
+      <link>https://Milind-Blaze.github.io/project/research/decentralized-wireless/</link>
+      <pubDate>Sun, 20 Nov 2022 21:12:32 +0530</pubDate>
+      <guid>https://Milind-Blaze.github.io/project/research/decentralized-wireless/</guid>
+      <description>&lt;p&gt;This project involves solving a number of problems-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the right mechanism to enable organic network growth with individuals and small enterprises building it ground up?&lt;/li&gt;
+&lt;li&gt;What are the necessary tools that need to be designed to make this feasible?&lt;/li&gt;
+&lt;li&gt;How can such a network incentivise participation and reward honest behaviour in the absence of trust?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The resulting work is below-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;publication/hotnets-2022&#34;&gt;Two-sided measurements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HotNets &#39;22: Trust-free service measurement and payments for decentralized cellular networks</title>
       <link>https://Milind-Blaze.github.io/publication/hotnets-2022/</link>
       <pubDate>Tue, 15 Nov 2022 20:30:00 +0530</pubDate>
       <guid>https://Milind-Blaze.github.io/publication/hotnets-2022/</guid>

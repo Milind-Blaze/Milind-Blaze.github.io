@@ -5,7 +5,7 @@
     <link>https://Milind-Blaze.github.io/tags/5g/</link>
       <atom:link href="https://Milind-Blaze.github.io/tags/5g/index.xml" rel="self" type="application/rss+xml" />
     <description>5G</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 20:30:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 22:28:55 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>5G</title>
@@ -13,7 +13,19 @@
     </image>
     
     <item>
-      <title>Trust-free service measurement and payments for decentralized cellular networks</title>
+      <title>Summary Slides: Building Flexible, Low-Cost Wireless Access Networks With Magma</title>
+      <link>https://Milind-Blaze.github.io/post/research/magma22/</link>
+      <pubDate>Sun, 20 Nov 2022 22:28:55 +0530</pubDate>
+      <guid>https://Milind-Blaze.github.io/post/research/magma22/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;Building Flexible, Low-Cost Wireless Access Networks With Magma&amp;rdquo; paper by the Magma team describes, in some detail, the architectural design principles of Magma and its performance. As a promising open source network core adding new features constantly, it is quite central to the decentralized wireless ecosystem. These summary slides attempt to capture this and position Magma amidst a number of accompanying endeavours- predecessors like CCM and successors like 
+&lt;a href=&#34;https://www.shaddih.com/papers/cellbricks-sigcomm21.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellBricks&lt;/a&gt; and 
+&lt;a href=&#34;https://witnesschain.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Witness Chain&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Click on the slides button above for the slides!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HotNets &#39;22: Trust-free service measurement and payments for decentralized cellular networks</title>
       <link>https://Milind-Blaze.github.io/publication/hotnets-2022/</link>
       <pubDate>Tue, 15 Nov 2022 20:30:00 +0530</pubDate>
       <guid>https://Milind-Blaze.github.io/publication/hotnets-2022/</guid>
@@ -80,23 +92,6 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
       <pubDate>Thu, 30 Apr 2020 13:00:00 +0530</pubDate>
       <guid>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>5G Testbed</title>
-      <link>https://Milind-Blaze.github.io/project/research/5g-testbed/</link>
-      <pubDate>Sun, 19 Apr 2020 22:12:24 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/5g-testbed/</guid>
-      <description>&lt;p&gt;At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../5g-receiver&#34;&gt;Receiver design and implementation for the Indigenous 5G Testbed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../5g-half-duplex&#34;&gt;Half-duplex system design using USRP N321&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../5g-dmrs&#34;&gt;MIMO channel estimation using PDSCH DMRS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
