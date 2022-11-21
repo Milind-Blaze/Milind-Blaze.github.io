@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IITM TA | Milind Kumar V</title>
+    <link>https://Milind-Blaze.github.io/tags/iitm-ta/</link>
+      <atom:link href="https://Milind-Blaze.github.io/tags/iitm-ta/index.xml" rel="self" type="application/rss+xml" />
+    <description>IITM TA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>IITM TA</title>
+      <link>https://Milind-Blaze.github.io/tags/iitm-ta/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Topics in Communications</title>
+      <link>https://Milind-Blaze.github.io/talk/teaching/ee6143-iitm/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0530</pubDate>
+      <guid>https://Milind-Blaze.github.io/talk/teaching/ee6143-iitm/</guid>
+      <description>&lt;p&gt;The assignments for this course can be found 
+&lt;a href=&#34;https://github.com/Milind-Blaze/Advanced_topics_in_communications_TA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
