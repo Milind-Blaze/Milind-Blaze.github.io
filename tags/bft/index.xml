@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BFT | Milind Kumar V</title>
-    <link>https://Milind-Blaze.github.io/tags/bft/</link>
-      <atom:link href="https://Milind-Blaze.github.io/tags/bft/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milindkumarv.com/tags/bft/</link>
+      <atom:link href="https://milindkumarv.com/tags/bft/index.xml" rel="self" type="application/rss+xml" />
     <description>BFT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Apr 2022 13:00:00 +0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>BFT</title>
-      <link>https://Milind-Blaze.github.io/tags/bft/</link>
+      <link>https://milindkumarv.com/tags/bft/</link>
     </image>
     
     <item>
       <title>BFT Protocol Forensics</title>
-      <link>https://Milind-Blaze.github.io/talk/bft-protocol-forensics/</link>
+      <link>https://milindkumarv.com/talk/bft-protocol-forensics/</link>
       <pubDate>Fri, 22 Apr 2022 13:00:00 +0600</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/bft-protocol-forensics/</guid>
+      <guid>https://milindkumarv.com/talk/bft-protocol-forensics/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Milind Kumar V</title>
-    <link>https://Milind-Blaze.github.io/tags/deep-learning/</link>
-      <atom:link href="https://Milind-Blaze.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milindkumarv.com/tags/deep-learning/</link>
+      <atom:link href="https://milindkumarv.com/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 22:00:18 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Deep Learning</title>
-      <link>https://Milind-Blaze.github.io/tags/deep-learning/</link>
+      <link>https://milindkumarv.com/tags/deep-learning/</link>
     </image>
     
     <item>
       <title>Music Mood Annotation</title>
-      <link>https://Milind-Blaze.github.io/project/research/music-mood-annotation/</link>
+      <link>https://milindkumarv.com/project/research/music-mood-annotation/</link>
       <pubDate>Sun, 19 Apr 2020 22:00:18 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/music-mood-annotation/</guid>
+      <guid>https://milindkumarv.com/project/research/music-mood-annotation/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Automatic  annotation  of  music  with  emotion labels is a challenging task owing to the subjectivity of emotions associated with music. Much of this work focuses on creating a sizeable dataset with sufficient annotations that tackles the issue of  subjectivity  adequately.  By  combining  pre-existing  datasets with discrete and continuous emotion labels, a dataset with 79 hours worth of audio is obtained. All the audios are represented as  points  in  the  valence-arousal  plane  and  are  then  clustered into four classes for the purpose of developing classifiers. CNNs which use mel spectrograms as inputs are the primary focus of this  work.  A  maximum  accuracy  of  50.89%  is  obtained  in  the four-class  classification  task  with  accuracies  in  the  individual tasks  of  valence  and  arousal  classifications  being  70.8%  and 71.7%  respectively.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Laser beam position tracking for LIGO</title>
-      <link>https://Milind-Blaze.github.io/project/research/ligo/</link>
+      <link>https://milindkumarv.com/project/research/ligo/</link>
       <pubDate>Sat, 18 Apr 2020 16:25:16 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/ligo/</guid>
+      <guid>https://milindkumarv.com/project/research/ligo/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;LIGO  interferometers  used  to  detect  gravitational  waves  achieve  extremely  high sensitivity  through  precise  angular  control  of  suspended  optics  that  direct  the  laser beam.  A host of sensing techniques, ranging from optical levers and wavefront sensors to suitably positioned quadrant photodiodes are used to detect the angular position and deviation of optics. This work attempts to introduce the use of Gigabit Ethernet (GigE) cameras capturing images of light scattered from optics to determine the position of the laser beam on the optic.  A number of approaches based on tools from image processing are employed to discern the motion of the beam spot from video.  They are found to be unreliable and discarded in favour of convolutional neural networks which can, in theory, learn any complex, non-linear mapping.  These are trained on data generated at the 40m laboratory at Caltech and the results are analysed.&lt;/p&gt;
 &lt;!-- Would be nice to set up a gallery.	 --&gt;</description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Laser Beam Position Tracking for LIGO Interferometers</title>
-      <link>https://Milind-Blaze.github.io/talk/ligo-surf/</link>
+      <link>https://milindkumarv.com/talk/ligo-surf/</link>
       <pubDate>Fri, 26 Jul 2019 13:00:56 -0700</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/ligo-surf/</guid>
+      <guid>https://milindkumarv.com/talk/ligo-surf/</guid>
       <description></description>
     </item>
     

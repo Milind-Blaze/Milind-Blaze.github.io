@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Milind Kumar V</title>
-    <link>https://Milind-Blaze.github.io/authors/</link>
-      <atom:link href="https://Milind-Blaze.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milindkumarv.com/authors/</link>
+      <atom:link href="https://milindkumarv.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 14:00:06 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Authors</title>
-      <link>https://Milind-Blaze.github.io/authors/</link>
+      <link>https://milindkumarv.com/authors/</link>
     </image>
     
   </channel>

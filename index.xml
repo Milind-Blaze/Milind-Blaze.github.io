@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milind Kumar V</title>
-    <link>https://Milind-Blaze.github.io/</link>
-      <atom:link href="https://Milind-Blaze.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milindkumarv.com/</link>
+      <atom:link href="https://milindkumarv.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Milind Kumar V</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 14:00:06 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Milind Kumar V</title>
-      <link>https://Milind-Blaze.github.io/</link>
+      <link>https://milindkumarv.com/</link>
     </image>
     
     <item>
       <title>Proof of Service: Trust-free OCS for Decentralized Cellular Networks</title>
-      <link>https://Milind-Blaze.github.io/talk/proof-of-service/</link>
+      <link>https://milindkumarv.com/talk/proof-of-service/</link>
       <pubDate>Tue, 06 Dec 2022 14:00:06 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/proof-of-service/</guid>
+      <guid>https://milindkumarv.com/talk/proof-of-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Summary Slides: Building Flexible, Low-Cost Wireless Access Networks With Magma</title>
-      <link>https://Milind-Blaze.github.io/post/research/magma22/</link>
+      <link>https://milindkumarv.com/post/research/magma22/</link>
       <pubDate>Sun, 20 Nov 2022 22:28:55 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/post/research/magma22/</guid>
+      <guid>https://milindkumarv.com/post/research/magma22/</guid>
       <description>&lt;p&gt;The &amp;ldquo;Building Flexible, Low-Cost Wireless Access Networks With Magma&amp;rdquo; paper by the Magma team describes, in some detail, the architectural design principles of Magma and its performance. As a promising open source network core adding new features constantly, it is quite central to the decentralized wireless ecosystem. These summary slides attempt to capture this and position Magma amidst a number of accompanying endeavours- predecessors like CCM and successors like 
 &lt;a href=&#34;https://www.shaddih.com/papers/cellbricks-sigcomm21.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellBricks&lt;/a&gt; and 
 &lt;a href=&#34;https://witnesschain.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Witness Chain&lt;/a&gt;.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Decentralized Wireless</title>
-      <link>https://Milind-Blaze.github.io/project/research/decentralized-wireless/</link>
+      <link>https://milindkumarv.com/project/research/decentralized-wireless/</link>
       <pubDate>Sun, 20 Nov 2022 21:12:32 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/decentralized-wireless/</guid>
+      <guid>https://milindkumarv.com/project/research/decentralized-wireless/</guid>
       <description>&lt;p&gt;This project involves solving a number of problems-&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What is the right mechanism to enable organic network growth with individuals and small enterprises building it ground up?&lt;/li&gt;
@@ -53,17 +53,17 @@
     
     <item>
       <title>HotNets &#39;22: Trust-free service measurement and payments for decentralized cellular networks</title>
-      <link>https://Milind-Blaze.github.io/publication/hotnets-2022/</link>
+      <link>https://milindkumarv.com/publication/hotnets-2022/</link>
       <pubDate>Tue, 15 Nov 2022 20:30:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/publication/hotnets-2022/</guid>
+      <guid>https://milindkumarv.com/publication/hotnets-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magma Installation on Ubuntu 20.04</title>
-      <link>https://Milind-Blaze.github.io/post/research/install-magma-ubuntu-20.04/</link>
+      <link>https://milindkumarv.com/post/research/install-magma-ubuntu-20.04/</link>
       <pubDate>Tue, 03 May 2022 12:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/post/research/install-magma-ubuntu-20.04/</guid>
+      <guid>https://milindkumarv.com/post/research/install-magma-ubuntu-20.04/</guid>
       <description>&lt;p&gt;Magma is an open source network core that supports both 4G and 5G. While the primary
 development environment is MacOS, it is also supported on Ubuntu. 
 &lt;a href=&#34;https://magmacore.org/blog/magma-installation-on-ubuntu-20-04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This blog post&lt;/a&gt; is guide for the
@@ -73,25 +73,25 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>BFT Protocol Forensics</title>
-      <link>https://Milind-Blaze.github.io/talk/bft-protocol-forensics/</link>
+      <link>https://milindkumarv.com/talk/bft-protocol-forensics/</link>
       <pubDate>Fri, 22 Apr 2022 13:00:00 +0600</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/bft-protocol-forensics/</guid>
+      <guid>https://milindkumarv.com/talk/bft-protocol-forensics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VSSE: application to FOIA</title>
-      <link>https://Milind-Blaze.github.io/talk/vsse-foia/</link>
+      <link>https://milindkumarv.com/talk/vsse-foia/</link>
       <pubDate>Wed, 08 Dec 2021 16:00:00 -0600</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/vsse-foia/</guid>
+      <guid>https://milindkumarv.com/talk/vsse-foia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced Topics in Communications</title>
-      <link>https://Milind-Blaze.github.io/talk/teaching/ee6143-iitm/</link>
+      <link>https://milindkumarv.com/talk/teaching/ee6143-iitm/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/teaching/ee6143-iitm/</guid>
+      <guid>https://milindkumarv.com/talk/teaching/ee6143-iitm/</guid>
       <description>&lt;p&gt;The assignments for this course can be found 
 &lt;a href=&#34;https://github.com/Milind-Blaze/Advanced_topics_in_communications_TA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -99,17 +99,17 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>The Great Derangement: Climate Change and the Unthinkable- Impressions</title>
-      <link>https://Milind-Blaze.github.io/talk/others/the-great-derangement/</link>
+      <link>https://milindkumarv.com/talk/others/the-great-derangement/</link>
       <pubDate>Sun, 06 Sep 2020 20:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/others/the-great-derangement/</guid>
+      <guid>https://milindkumarv.com/talk/others/the-great-derangement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channel Estimation Using PDSCH DMRS </title>
-      <link>https://Milind-Blaze.github.io/project/research/5g-dmrs/</link>
+      <link>https://milindkumarv.com/project/research/5g-dmrs/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:58 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/5g-dmrs/</guid>
+      <guid>https://milindkumarv.com/project/research/5g-dmrs/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;DMRS symbols are generated according to the specifications in Section 7.4 of TS 38.211. This includes generation of DMRS symbols for either single or multiple ports, different configuration types, different types of PDSCH mapping and different types of resource allocation. Random M-QAM data is used to populate the empty subcarriers before transmission through a TDL channel (see TR 38.901). The received DMRS symbols are used to estimate the channel. The simulation supports multiple receive antennas as well. A comparison is made of the actual and estimated channel coefficients using suitable visualizations.&lt;/p&gt;
 &lt;p&gt;This work was completed as a part of the course 
@@ -119,9 +119,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Receiver design and implementation for the Indigenous 5G Testbed</title>
-      <link>https://Milind-Blaze.github.io/project/research/5g-receiver/</link>
+      <link>https://milindkumarv.com/project/research/5g-receiver/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:48 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/5g-receiver/</guid>
+      <guid>https://milindkumarv.com/project/research/5g-receiver/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;5G technology is poised to bring about a wave of changes in the near future. An integral step in the process of developing 5G systems is performing extensive simulations to verify the efficacy of algorithms before they are implemented on hardware. This work presents the theoretical framework and design parameters associated with the simulation of an end to end communication system adhering to 5G NR specifications. Particular emphasis is laid on the examination of several channel estimation and equalization techniques which provide adequate performance- measured using bit error rate at a given signal to noise ratio- in the case of a multipath fading channel. Several key assumptions made to obtain a working simulation are presented in detail and steps to relax them and improve the simulation are highlighted. While the results do not lead to a conclusive decision regarding a superior method, they help identify extremely promising directions of research.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Documentation is available on request.&lt;/strong&gt;&lt;/p&gt;
@@ -130,9 +130,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Half-duplex system design using USRP N321</title>
-      <link>https://Milind-Blaze.github.io/project/research/5g-half-duplex/</link>
+      <link>https://milindkumarv.com/project/research/5g-half-duplex/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:44 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/5g-half-duplex/</guid>
+      <guid>https://milindkumarv.com/project/research/5g-half-duplex/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This work develops a half duplex system operating at 122.88 MSPS and transmitting data generated according to 5G NR standards using a Universal Software Radio Peripheral (USRP). A half duplex system can both transmit and receive but can not do both simultaneously. Instead, the system transmits for a period of time and receives for the remaining. Therefore, the system is designed in three stages- transmitter, receiver and then integration of the two. Once designed, the USRP is expected to work in parallel with the existing Keysight systems used at the Testbed if not replace them. In this work, USRP N321 by Ettus Research is used. The USRP is a software defined radio that uses software as a substitute for components implemented in hardware. The accompanying technical report details the procedures involved in setting up the USRP- the associated software, interfacing and verification of function. This document also discusses the design of a transmitter and receiver using GNU Radio and the associated challenges. The designed systems are tested using a Vector Signal Analyzer (VSA) and Vector Signal Generator (VSG) and data that adheres to the 5G standards is generated using MATLAB.&lt;/p&gt;
 </description>
@@ -140,26 +140,26 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Receiver Design for 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-receiver-design/</link>
+      <link>https://milindkumarv.com/talk/5g-receiver-design/</link>
       <pubDate>Mon, 13 Jul 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-receiver-design/</guid>
+      <guid>https://milindkumarv.com/talk/5g-receiver-design/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Slides used and recording of the talk are available on request.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RACH, CORESET and Search Space in 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</link>
+      <link>https://milindkumarv.com/talk/5g-rach-coreset/</link>
       <pubDate>Thu, 30 Apr 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</guid>
+      <guid>https://milindkumarv.com/talk/5g-rach-coreset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5G Testbed</title>
-      <link>https://Milind-Blaze.github.io/project/research/5g-testbed/</link>
+      <link>https://milindkumarv.com/project/research/5g-testbed/</link>
       <pubDate>Sun, 19 Apr 2020 22:12:24 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/5g-testbed/</guid>
+      <guid>https://milindkumarv.com/project/research/5g-testbed/</guid>
       <description>&lt;p&gt;At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -174,18 +174,18 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>8 Bit Microprocessor</title>
-      <link>https://Milind-Blaze.github.io/project/research/8-bit-microprocessor/</link>
+      <link>https://milindkumarv.com/project/research/8-bit-microprocessor/</link>
       <pubDate>Sun, 19 Apr 2020 22:11:48 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/8-bit-microprocessor/</guid>
+      <guid>https://milindkumarv.com/project/research/8-bit-microprocessor/</guid>
       <description>&lt;p&gt;An 8 bit microprocessor is simulated in this work using Verilog. It supports the add, subtract, bitwise AND, bitwise OR, left shift, right shift and compare operations. It also allows LOAD, STORE, MOV, LOAD DIRECT. This is accompanied by a Python based assembler. Two sample programs- one for the summation of the first few natural numbers and the second for factorial computation- are implemented on the simulated microprocessor.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Music Mood Annotation</title>
-      <link>https://Milind-Blaze.github.io/project/research/music-mood-annotation/</link>
+      <link>https://milindkumarv.com/project/research/music-mood-annotation/</link>
       <pubDate>Sun, 19 Apr 2020 22:00:18 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/music-mood-annotation/</guid>
+      <guid>https://milindkumarv.com/project/research/music-mood-annotation/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Automatic  annotation  of  music  with  emotion labels is a challenging task owing to the subjectivity of emotions associated with music. Much of this work focuses on creating a sizeable dataset with sufficient annotations that tackles the issue of  subjectivity  adequately.  By  combining  pre-existing  datasets with discrete and continuous emotion labels, a dataset with 79 hours worth of audio is obtained. All the audios are represented as  points  in  the  valence-arousal  plane  and  are  then  clustered into four classes for the purpose of developing classifiers. CNNs which use mel spectrograms as inputs are the primary focus of this  work.  A  maximum  accuracy  of  50.89%  is  obtained  in  the four-class  classification  task  with  accuracies  in  the  individual tasks  of  valence  and  arousal  classifications  being  70.8%  and 71.7%  respectively.&lt;/p&gt;
 </description>
@@ -193,9 +193,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Source Separation</title>
-      <link>https://Milind-Blaze.github.io/project/research/source-separation/</link>
+      <link>https://milindkumarv.com/project/research/source-separation/</link>
       <pubDate>Sun, 19 Apr 2020 22:00:07 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/source-separation/</guid>
+      <guid>https://milindkumarv.com/project/research/source-separation/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/vc-WlAqv17c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -208,9 +208,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Laser beam position tracking for LIGO</title>
-      <link>https://Milind-Blaze.github.io/project/research/ligo/</link>
+      <link>https://milindkumarv.com/project/research/ligo/</link>
       <pubDate>Sat, 18 Apr 2020 16:25:16 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/ligo/</guid>
+      <guid>https://milindkumarv.com/project/research/ligo/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;LIGO  interferometers  used  to  detect  gravitational  waves  achieve  extremely  high sensitivity  through  precise  angular  control  of  suspended  optics  that  direct  the  laser beam.  A host of sensing techniques, ranging from optical levers and wavefront sensors to suitably positioned quadrant photodiodes are used to detect the angular position and deviation of optics. This work attempts to introduce the use of Gigabit Ethernet (GigE) cameras capturing images of light scattered from optics to determine the position of the laser beam on the optic.  A number of approaches based on tools from image processing are employed to discern the motion of the beam spot from video.  They are found to be unreliable and discarded in favour of convolutional neural networks which can, in theory, learn any complex, non-linear mapping.  These are trained on data generated at the 40m laboratory at Caltech and the results are analysed.&lt;/p&gt;
 &lt;!-- Would be nice to set up a gallery.	 --&gt;</description>
@@ -218,26 +218,26 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>System Information Acquisition in 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-system-information/</link>
+      <link>https://milindkumarv.com/talk/5g-system-information/</link>
       <pubDate>Tue, 03 Mar 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-system-information/</guid>
+      <guid>https://milindkumarv.com/talk/5g-system-information/</guid>
       <description>&lt;p&gt;Some of this work was done in association with Kanish B.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Laser Beam Position Tracking for LIGO Interferometers</title>
-      <link>https://Milind-Blaze.github.io/talk/ligo-surf/</link>
+      <link>https://milindkumarv.com/talk/ligo-surf/</link>
       <pubDate>Fri, 26 Jul 2019 13:00:56 -0700</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/ligo-surf/</guid>
+      <guid>https://milindkumarv.com/talk/ligo-surf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolve 2019</title>
-      <link>https://Milind-Blaze.github.io/project/events/evolve2019/</link>
+      <link>https://milindkumarv.com/project/events/evolve2019/</link>
       <pubDate>Sun, 05 May 2019 11:40:42 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/events/evolve2019/</guid>
+      <guid>https://milindkumarv.com/project/events/evolve2019/</guid>
       <description>&lt;p&gt;Shaastra is IIT Madras&#39; four day annual technical festival. Almost entirely student run, it encompasses a number of educational events and competitions for the technically inclined, lectures on a myriad of topics ranging from neuroscience and AI to policy and art for those seeking knowledge and four evening shows that are simply superb spectacles.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -452,25 +452,25 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Projects</title>
-      <link>https://Milind-Blaze.github.io/my_projects/</link>
+      <link>https://milindkumarv.com/my_projects/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://Milind-Blaze.github.io/my_projects/</guid>
+      <guid>https://milindkumarv.com/my_projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Undergraduate Projects</title>
-      <link>https://Milind-Blaze.github.io/my_undergraduate_projects/</link>
+      <link>https://milindkumarv.com/my_undergraduate_projects/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://Milind-Blaze.github.io/my_undergraduate_projects/</guid>
+      <guid>https://milindkumarv.com/my_undergraduate_projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolve 2018</title>
-      <link>https://Milind-Blaze.github.io/project/events/evolve2018/</link>
+      <link>https://milindkumarv.com/project/events/evolve2018/</link>
       <pubDate>Sat, 05 May 2018 11:40:46 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/events/evolve2018/</guid>
+      <guid>https://milindkumarv.com/project/events/evolve2018/</guid>
       <description>&lt;p&gt;Shaastra is IIT Madras&#39; four day annual technical festival. Almost entirely student run, it encompasses a number of educational events and competitions for the technically inclined, lectures on a myriad of topics ranging from neuroscience and AI to policy and art for those seeking knowledge and four evening shows that are simply superb spectacles. Evolve is a team within Shaastra that traditionally has three departments- Spotlight which organizes lectures, Summit which generally focuses on one or two themes and puts together conference style events and related competitions and a third department that does something unique every year.&lt;/p&gt;
 &lt;p&gt;Spotlight organizes lectures- both live and virtual- starting in August and right until the end of Shaastra. Speakers are invited from across the world to deliver a lecture at IIT Madras via emails, calls and using a number of other networking strategies. Spotlight often collaborates with other organizations and conferences such as 
 &lt;a href=&#34;https://ccbr.iitmadras.in/workshops&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Computational Brain Research&lt;/a&gt; and the Indian Science Congress. Over the course of the four days of Shaastra, Spotlight sees an audience of about four thousand at IIT Madras and even more online. Speakers at Shaastra 2018 are featured below.&lt;/p&gt;
@@ -488,9 +488,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>CoEdu India</title>
-      <link>https://Milind-Blaze.github.io/project/events/coedu2020/</link>
+      <link>https://milindkumarv.com/project/events/coedu2020/</link>
       <pubDate>Sat, 07 Apr 2018 16:51:32 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/events/coedu2020/</guid>
+      <guid>https://milindkumarv.com/project/events/coedu2020/</guid>
       <description>&lt;p&gt;The Covid-19 pandemic has disrupted life throughout the world. One area of life that has witnessed dramatic change with the ubiquitous shift to online communication is education. Schools throughout India are attempting to rapidly shift to online teaching and the period of transition can often be difficult for both students and teachers alike. 
 &lt;a href=&#34;https://www.notion.so/CoEdu-India-ddc0acad378b46acac02991e4fe0361f#0b768b0f1af6464aa03872ec29083d8e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoEdu&lt;/a&gt; attempts to fill this void by bringing together students from different streams of engineering and at different levels of study (undergraduate or graduate) from IIT Madras and connecting them to schools and schoolchildren who can benefit from their expertise. While subjects traditionally covered in a school are presented to make up for the lack of in person teaching, great emphasis is also placed on introducing children from classes 8-12 to subjects such as AI or equip them with skills such as coding in order to enable them to comprehend, and contribute to, the technology driven world of the future. We also aspire to accomodate individual mentoring for students in the near future. As someone passionate about education, working with this team has allowed me to experience firsthand the challenges of making knowledge accessible and the excitement of teaching.&lt;/p&gt;
 </description>
@@ -498,9 +498,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Inter IIT Sports meet Organizing Team</title>
-      <link>https://Milind-Blaze.github.io/project/events/inter-iit/</link>
+      <link>https://milindkumarv.com/project/events/inter-iit/</link>
       <pubDate>Fri, 01 Dec 2017 11:40:53 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/events/inter-iit/</guid>
+      <guid>https://milindkumarv.com/project/events/inter-iit/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/3_7_w6HuJJQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -512,41 +512,41 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Internet Reading</title>
-      <link>https://Milind-Blaze.github.io/internet_reading/</link>
+      <link>https://milindkumarv.com/internet_reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Milind-Blaze.github.io/internet_reading/</guid>
+      <guid>https://milindkumarv.com/internet_reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://Milind-Blaze.github.io/personal/</link>
+      <link>https://milindkumarv.com/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Milind-Blaze.github.io/personal/</guid>
+      <guid>https://milindkumarv.com/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://Milind-Blaze.github.io/my_publications/</link>
+      <link>https://milindkumarv.com/my_publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Milind-Blaze.github.io/my_publications/</guid>
+      <guid>https://milindkumarv.com/my_publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://Milind-Blaze.github.io/my_talks/</link>
+      <link>https://milindkumarv.com/my_talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Milind-Blaze.github.io/my_talks/</guid>
+      <guid>https://milindkumarv.com/my_talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://Milind-Blaze.github.io/my_teaching/</link>
+      <link>https://milindkumarv.com/my_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Milind-Blaze.github.io/my_teaching/</guid>
+      <guid>https://milindkumarv.com/my_teaching/</guid>
       <description></description>
     </item>
     

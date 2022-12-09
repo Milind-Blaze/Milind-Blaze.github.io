@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Decentralized Wireless | Milind Kumar V</title>
-    <link>https://Milind-Blaze.github.io/tags/decentralized-wireless/</link>
-      <atom:link href="https://Milind-Blaze.github.io/tags/decentralized-wireless/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milindkumarv.com/tags/decentralized-wireless/</link>
+      <atom:link href="https://milindkumarv.com/tags/decentralized-wireless/index.xml" rel="self" type="application/rss+xml" />
     <description>Decentralized Wireless</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 14:00:06 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Decentralized Wireless</title>
-      <link>https://Milind-Blaze.github.io/tags/decentralized-wireless/</link>
+      <link>https://milindkumarv.com/tags/decentralized-wireless/</link>
     </image>
     
     <item>
       <title>Proof of Service: Trust-free OCS for Decentralized Cellular Networks</title>
-      <link>https://Milind-Blaze.github.io/talk/proof-of-service/</link>
+      <link>https://milindkumarv.com/talk/proof-of-service/</link>
       <pubDate>Tue, 06 Dec 2022 14:00:06 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/proof-of-service/</guid>
+      <guid>https://milindkumarv.com/talk/proof-of-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Summary Slides: Building Flexible, Low-Cost Wireless Access Networks With Magma</title>
-      <link>https://Milind-Blaze.github.io/post/research/magma22/</link>
+      <link>https://milindkumarv.com/post/research/magma22/</link>
       <pubDate>Sun, 20 Nov 2022 22:28:55 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/post/research/magma22/</guid>
+      <guid>https://milindkumarv.com/post/research/magma22/</guid>
       <description>&lt;p&gt;The &amp;ldquo;Building Flexible, Low-Cost Wireless Access Networks With Magma&amp;rdquo; paper by the Magma team describes, in some detail, the architectural design principles of Magma and its performance. As a promising open source network core adding new features constantly, it is quite central to the decentralized wireless ecosystem. These summary slides attempt to capture this and position Magma amidst a number of accompanying endeavours- predecessors like CCM and successors like 
 &lt;a href=&#34;https://www.shaddih.com/papers/cellbricks-sigcomm21.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellBricks&lt;/a&gt; and 
 &lt;a href=&#34;https://witnesschain.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Witness Chain&lt;/a&gt;.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Decentralized Wireless</title>
-      <link>https://Milind-Blaze.github.io/project/research/decentralized-wireless/</link>
+      <link>https://milindkumarv.com/project/research/decentralized-wireless/</link>
       <pubDate>Sun, 20 Nov 2022 21:12:32 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/decentralized-wireless/</guid>
+      <guid>https://milindkumarv.com/project/research/decentralized-wireless/</guid>
       <description>&lt;p&gt;This project involves solving a number of problems-&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What is the right mechanism to enable organic network growth with individuals and small enterprises building it ground up?&lt;/li&gt;
@@ -53,17 +53,17 @@
     
     <item>
       <title>HotNets &#39;22: Trust-free service measurement and payments for decentralized cellular networks</title>
-      <link>https://Milind-Blaze.github.io/publication/hotnets-2022/</link>
+      <link>https://milindkumarv.com/publication/hotnets-2022/</link>
       <pubDate>Tue, 15 Nov 2022 20:30:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/publication/hotnets-2022/</guid>
+      <guid>https://milindkumarv.com/publication/hotnets-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magma Installation on Ubuntu 20.04</title>
-      <link>https://Milind-Blaze.github.io/post/research/install-magma-ubuntu-20.04/</link>
+      <link>https://milindkumarv.com/post/research/install-magma-ubuntu-20.04/</link>
       <pubDate>Tue, 03 May 2022 12:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/post/research/install-magma-ubuntu-20.04/</guid>
+      <guid>https://milindkumarv.com/post/research/install-magma-ubuntu-20.04/</guid>
       <description>&lt;p&gt;Magma is an open source network core that supports both 4G and 5G. While the primary
 development environment is MacOS, it is also supported on Ubuntu. 
 &lt;a href=&#34;https://magmacore.org/blog/magma-installation-on-ubuntu-20-04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This blog post&lt;/a&gt; is guide for the

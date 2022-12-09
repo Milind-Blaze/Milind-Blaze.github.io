@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Milind Kumar V</title>
-    <link>https://Milind-Blaze.github.io/publication_types/1/</link>
-      <atom:link href="https://Milind-Blaze.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milindkumarv.com/publication_types/1/</link>
+      <atom:link href="https://milindkumarv.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 20:30:00 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>1</title>
-      <link>https://Milind-Blaze.github.io/publication_types/1/</link>
+      <link>https://milindkumarv.com/publication_types/1/</link>
     </image>
     
     <item>
       <title>HotNets &#39;22: Trust-free service measurement and payments for decentralized cellular networks</title>
-      <link>https://Milind-Blaze.github.io/publication/hotnets-2022/</link>
+      <link>https://milindkumarv.com/publication/hotnets-2022/</link>
       <pubDate>Tue, 15 Nov 2022 20:30:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/publication/hotnets-2022/</guid>
+      <guid>https://milindkumarv.com/publication/hotnets-2022/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Milind Kumar V</title>
-    <link>https://Milind-Blaze.github.io/talk/</link>
-      <atom:link href="https://Milind-Blaze.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milindkumarv.com/talk/</link>
+      <atom:link href="https://milindkumarv.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://Milind-Blaze.github.io/talk/</link>
+      <link>https://milindkumarv.com/talk/</link>
     </image>
     
     <item>
       <title>Proof of Service: Trust-free OCS for Decentralized Cellular Networks</title>
-      <link>https://Milind-Blaze.github.io/talk/proof-of-service/</link>
+      <link>https://milindkumarv.com/talk/proof-of-service/</link>
       <pubDate>Tue, 06 Dec 2022 14:00:06 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/proof-of-service/</guid>
+      <guid>https://milindkumarv.com/talk/proof-of-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BFT Protocol Forensics</title>
-      <link>https://Milind-Blaze.github.io/talk/bft-protocol-forensics/</link>
+      <link>https://milindkumarv.com/talk/bft-protocol-forensics/</link>
       <pubDate>Fri, 22 Apr 2022 13:00:00 +0600</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/bft-protocol-forensics/</guid>
+      <guid>https://milindkumarv.com/talk/bft-protocol-forensics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VSSE: application to FOIA</title>
-      <link>https://Milind-Blaze.github.io/talk/vsse-foia/</link>
+      <link>https://milindkumarv.com/talk/vsse-foia/</link>
       <pubDate>Wed, 08 Dec 2021 16:00:00 -0600</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/vsse-foia/</guid>
+      <guid>https://milindkumarv.com/talk/vsse-foia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced Topics in Communications</title>
-      <link>https://Milind-Blaze.github.io/talk/teaching/ee6143-iitm/</link>
+      <link>https://milindkumarv.com/talk/teaching/ee6143-iitm/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/teaching/ee6143-iitm/</guid>
+      <guid>https://milindkumarv.com/talk/teaching/ee6143-iitm/</guid>
       <description>&lt;p&gt;The assignments for this course can be found 
 &lt;a href=&#34;https://github.com/Milind-Blaze/Advanced_topics_in_communications_TA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -48,43 +48,43 @@
     
     <item>
       <title>The Great Derangement: Climate Change and the Unthinkable- Impressions</title>
-      <link>https://Milind-Blaze.github.io/talk/others/the-great-derangement/</link>
+      <link>https://milindkumarv.com/talk/others/the-great-derangement/</link>
       <pubDate>Sun, 06 Sep 2020 20:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/others/the-great-derangement/</guid>
+      <guid>https://milindkumarv.com/talk/others/the-great-derangement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Receiver Design for 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-receiver-design/</link>
+      <link>https://milindkumarv.com/talk/5g-receiver-design/</link>
       <pubDate>Mon, 13 Jul 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-receiver-design/</guid>
+      <guid>https://milindkumarv.com/talk/5g-receiver-design/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Slides used and recording of the talk are available on request.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RACH, CORESET and Search Space in 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</link>
+      <link>https://milindkumarv.com/talk/5g-rach-coreset/</link>
       <pubDate>Thu, 30 Apr 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</guid>
+      <guid>https://milindkumarv.com/talk/5g-rach-coreset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System Information Acquisition in 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-system-information/</link>
+      <link>https://milindkumarv.com/talk/5g-system-information/</link>
       <pubDate>Tue, 03 Mar 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-system-information/</guid>
+      <guid>https://milindkumarv.com/talk/5g-system-information/</guid>
       <description>&lt;p&gt;Some of this work was done in association with Kanish B.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Laser Beam Position Tracking for LIGO Interferometers</title>
-      <link>https://Milind-Blaze.github.io/talk/ligo-surf/</link>
+      <link>https://milindkumarv.com/talk/ligo-surf/</link>
       <pubDate>Fri, 26 Jul 2019 13:00:56 -0700</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/ligo-surf/</guid>
+      <guid>https://milindkumarv.com/talk/ligo-surf/</guid>
       <description></description>
     </item>
     

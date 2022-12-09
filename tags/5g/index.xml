@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5G | Milind Kumar V</title>
-    <link>https://Milind-Blaze.github.io/tags/5g/</link>
-      <atom:link href="https://Milind-Blaze.github.io/tags/5g/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://milindkumarv.com/tags/5g/</link>
+      <atom:link href="https://milindkumarv.com/tags/5g/index.xml" rel="self" type="application/rss+xml" />
     <description>5G</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 14:00:06 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>5G</title>
-      <link>https://Milind-Blaze.github.io/tags/5g/</link>
+      <link>https://milindkumarv.com/tags/5g/</link>
     </image>
     
     <item>
       <title>Proof of Service: Trust-free OCS for Decentralized Cellular Networks</title>
-      <link>https://Milind-Blaze.github.io/talk/proof-of-service/</link>
+      <link>https://milindkumarv.com/talk/proof-of-service/</link>
       <pubDate>Tue, 06 Dec 2022 14:00:06 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/proof-of-service/</guid>
+      <guid>https://milindkumarv.com/talk/proof-of-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Summary Slides: Building Flexible, Low-Cost Wireless Access Networks With Magma</title>
-      <link>https://Milind-Blaze.github.io/post/research/magma22/</link>
+      <link>https://milindkumarv.com/post/research/magma22/</link>
       <pubDate>Sun, 20 Nov 2022 22:28:55 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/post/research/magma22/</guid>
+      <guid>https://milindkumarv.com/post/research/magma22/</guid>
       <description>&lt;p&gt;The &amp;ldquo;Building Flexible, Low-Cost Wireless Access Networks With Magma&amp;rdquo; paper by the Magma team describes, in some detail, the architectural design principles of Magma and its performance. As a promising open source network core adding new features constantly, it is quite central to the decentralized wireless ecosystem. These summary slides attempt to capture this and position Magma amidst a number of accompanying endeavours- predecessors like CCM and successors like 
 &lt;a href=&#34;https://www.shaddih.com/papers/cellbricks-sigcomm21.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CellBricks&lt;/a&gt; and 
 &lt;a href=&#34;https://witnesschain.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Witness Chain&lt;/a&gt;.&lt;/p&gt;
@@ -34,17 +34,17 @@
     
     <item>
       <title>HotNets &#39;22: Trust-free service measurement and payments for decentralized cellular networks</title>
-      <link>https://Milind-Blaze.github.io/publication/hotnets-2022/</link>
+      <link>https://milindkumarv.com/publication/hotnets-2022/</link>
       <pubDate>Tue, 15 Nov 2022 20:30:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/publication/hotnets-2022/</guid>
+      <guid>https://milindkumarv.com/publication/hotnets-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magma Installation on Ubuntu 20.04</title>
-      <link>https://Milind-Blaze.github.io/post/research/install-magma-ubuntu-20.04/</link>
+      <link>https://milindkumarv.com/post/research/install-magma-ubuntu-20.04/</link>
       <pubDate>Tue, 03 May 2022 12:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/post/research/install-magma-ubuntu-20.04/</guid>
+      <guid>https://milindkumarv.com/post/research/install-magma-ubuntu-20.04/</guid>
       <description>&lt;p&gt;Magma is an open source network core that supports both 4G and 5G. While the primary
 development environment is MacOS, it is also supported on Ubuntu. 
 &lt;a href=&#34;https://magmacore.org/blog/magma-installation-on-ubuntu-20-04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This blog post&lt;/a&gt; is guide for the
@@ -54,9 +54,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Advanced Topics in Communications</title>
-      <link>https://Milind-Blaze.github.io/talk/teaching/ee6143-iitm/</link>
+      <link>https://milindkumarv.com/talk/teaching/ee6143-iitm/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/teaching/ee6143-iitm/</guid>
+      <guid>https://milindkumarv.com/talk/teaching/ee6143-iitm/</guid>
       <description>&lt;p&gt;The assignments for this course can be found 
 &lt;a href=&#34;https://github.com/Milind-Blaze/Advanced_topics_in_communications_TA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Channel Estimation Using PDSCH DMRS </title>
-      <link>https://Milind-Blaze.github.io/project/research/5g-dmrs/</link>
+      <link>https://milindkumarv.com/project/research/5g-dmrs/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:58 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/5g-dmrs/</guid>
+      <guid>https://milindkumarv.com/project/research/5g-dmrs/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;DMRS symbols are generated according to the specifications in Section 7.4 of TS 38.211. This includes generation of DMRS symbols for either single or multiple ports, different configuration types, different types of PDSCH mapping and different types of resource allocation. Random M-QAM data is used to populate the empty subcarriers before transmission through a TDL channel (see TR 38.901). The received DMRS symbols are used to estimate the channel. The simulation supports multiple receive antennas as well. A comparison is made of the actual and estimated channel coefficients using suitable visualizations.&lt;/p&gt;
 &lt;p&gt;This work was completed as a part of the course 
@@ -76,9 +76,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Receiver design and implementation for the Indigenous 5G Testbed</title>
-      <link>https://Milind-Blaze.github.io/project/research/5g-receiver/</link>
+      <link>https://milindkumarv.com/project/research/5g-receiver/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:48 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/5g-receiver/</guid>
+      <guid>https://milindkumarv.com/project/research/5g-receiver/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;5G technology is poised to bring about a wave of changes in the near future. An integral step in the process of developing 5G systems is performing extensive simulations to verify the efficacy of algorithms before they are implemented on hardware. This work presents the theoretical framework and design parameters associated with the simulation of an end to end communication system adhering to 5G NR specifications. Particular emphasis is laid on the examination of several channel estimation and equalization techniques which provide adequate performance- measured using bit error rate at a given signal to noise ratio- in the case of a multipath fading channel. Several key assumptions made to obtain a working simulation are presented in detail and steps to relax them and improve the simulation are highlighted. While the results do not lead to a conclusive decision regarding a superior method, they help identify extremely promising directions of research.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Documentation is available on request.&lt;/strong&gt;&lt;/p&gt;
@@ -87,9 +87,9 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Half-duplex system design using USRP N321</title>
-      <link>https://Milind-Blaze.github.io/project/research/5g-half-duplex/</link>
+      <link>https://milindkumarv.com/project/research/5g-half-duplex/</link>
       <pubDate>Wed, 05 Aug 2020 15:42:44 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/project/research/5g-half-duplex/</guid>
+      <guid>https://milindkumarv.com/project/research/5g-half-duplex/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;This work develops a half duplex system operating at 122.88 MSPS and transmitting data generated according to 5G NR standards using a Universal Software Radio Peripheral (USRP). A half duplex system can both transmit and receive but can not do both simultaneously. Instead, the system transmits for a period of time and receives for the remaining. Therefore, the system is designed in three stages- transmitter, receiver and then integration of the two. Once designed, the USRP is expected to work in parallel with the existing Keysight systems used at the Testbed if not replace them. In this work, USRP N321 by Ettus Research is used. The USRP is a software defined radio that uses software as a substitute for components implemented in hardware. The accompanying technical report details the procedures involved in setting up the USRP- the associated software, interfacing and verification of function. This document also discusses the design of a transmitter and receiver using GNU Radio and the associated challenges. The designed systems are tested using a Vector Signal Analyzer (VSA) and Vector Signal Generator (VSG) and data that adheres to the 5G standards is generated using MATLAB.&lt;/p&gt;
 </description>
@@ -97,26 +97,26 @@ installation of Magma on Ubuntu 20.04.&lt;/p&gt;
     
     <item>
       <title>Receiver Design for 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-receiver-design/</link>
+      <link>https://milindkumarv.com/talk/5g-receiver-design/</link>
       <pubDate>Mon, 13 Jul 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-receiver-design/</guid>
+      <guid>https://milindkumarv.com/talk/5g-receiver-design/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Slides used and recording of the talk are available on request.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RACH, CORESET and Search Space in 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</link>
+      <link>https://milindkumarv.com/talk/5g-rach-coreset/</link>
       <pubDate>Thu, 30 Apr 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-rach-coreset/</guid>
+      <guid>https://milindkumarv.com/talk/5g-rach-coreset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System Information Acquisition in 5G NR</title>
-      <link>https://Milind-Blaze.github.io/talk/5g-system-information/</link>
+      <link>https://milindkumarv.com/talk/5g-system-information/</link>
       <pubDate>Tue, 03 Mar 2020 13:00:00 +0530</pubDate>
-      <guid>https://Milind-Blaze.github.io/talk/5g-system-information/</guid>
+      <guid>https://milindkumarv.com/talk/5g-system-information/</guid>
       <description>&lt;p&gt;Some of this work was done in association with Kanish B.&lt;/p&gt;
 </description>
     </item>
