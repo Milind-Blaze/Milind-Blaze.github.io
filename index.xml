@@ -5,12 +5,21 @@
     <link>https://milindkumarv.com/</link>
       <atom:link href="https://milindkumarv.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Milind Kumar V</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 14:00:06 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 May 2023 09:00:00 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Milind Kumar V</title>
       <link>https://milindkumarv.com/</link>
     </image>
+    
+    <item>
+      <title>Congestion Control on LEO Satellite Networks using Hypatia</title>
+      <link>https://milindkumarv.com/talk/leo-cca/</link>
+      <pubDate>Thu, 11 May 2023 09:00:00 +0530</pubDate>
+      <guid>https://milindkumarv.com/talk/leo-cca/</guid>
+      <description>&lt;p&gt;This work was done together with Sairamasubash Muppalaneni and Eashan Gupta at UIUC.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Proof of Service: Trust-free OCS for Decentralized Cellular Networks</title>
