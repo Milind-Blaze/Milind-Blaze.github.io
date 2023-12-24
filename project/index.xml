@@ -5,12 +5,34 @@
     <link>https://milindkumarv.com/project/</link>
       <atom:link href="https://milindkumarv.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 21:12:32 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 21:12:32 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Projects</title>
       <link>https://milindkumarv.com/project/</link>
     </image>
+    
+    <item>
+      <title>Low-latency Networking</title>
+      <link>https://milindkumarv.com/project/research/low-latency-networking/</link>
+      <pubDate>Mon, 20 Nov 2023 21:12:32 +0530</pubDate>
+      <guid>https://milindkumarv.com/project/research/low-latency-networking/</guid>
+      <description>&lt;p&gt;Applications, especially interactive ones, require the underlying network to provide high throughput, low latency and high reliability to deliver satisfactory user experiences. While meeting all three requirements has proven challenging, &lt;em&gt;heterogeneous virtual channels&lt;/em&gt; (HVCs) have emerged in various networks which provide some subset of these at the expense of the rest. In this project, we explore how these HVCs can be used to boost application performance, why previous solutions can not do so effectively and what the features of a solution that does so are by analyzing the challenges and opportunities lying at the different layers of the network stack.
+We also discuss making these solutions deployable and directions of future work.&lt;/p&gt;
+&lt;p&gt;This project involves addressing a number of questions-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the right mechansims and algorithms for using HVCs to boost application performance?&lt;/li&gt;
+&lt;li&gt;What does a system designed to use multiple HVCs look like?&lt;/li&gt;
+&lt;li&gt;How can such a networking solution be integrated into applications like XR to boost performance and improve user experience?&lt;/li&gt;
+&lt;li&gt;How do selfish users and applications behave when given access this powerful new network capability and what mechanism design is necessary to incentivise an optimal outcome?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The resulting work is below-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../../../publication/hotnets-2023&#34;&gt;Boosting Application Performance Using HVCs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Decentralized Wireless</title>

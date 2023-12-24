@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project | Milind Kumar V</title>
-    <link>https://milindkumarv.com/tags/project/</link>
-      <atom:link href="https://milindkumarv.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Project</description>
+    <title>Low-latency Networking | Milind Kumar V</title>
+    <link>https://milindkumarv.com/tags/low-latency-networking/</link>
+      <atom:link href="https://milindkumarv.com/tags/low-latency-networking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-latency Networking</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 21:12:32 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
-      <title>Project</title>
-      <link>https://milindkumarv.com/tags/project/</link>
+      <title>Low-latency Networking</title>
+      <link>https://milindkumarv.com/tags/low-latency-networking/</link>
     </image>
     
     <item>
@@ -35,39 +35,11 @@ We also discuss making these solutions deployable and directions of future work.
     </item>
     
     <item>
-      <title>Decentralized Wireless</title>
-      <link>https://milindkumarv.com/project/research/decentralized-wireless/</link>
-      <pubDate>Sun, 20 Nov 2022 21:12:32 +0530</pubDate>
-      <guid>https://milindkumarv.com/project/research/decentralized-wireless/</guid>
-      <description>&lt;p&gt;This project involves solving a number of problems-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;What is the right mechanism to enable organic network growth with individuals and small enterprises building it ground up?&lt;/li&gt;
-&lt;li&gt;What are the necessary tools that need to be designed to make this feasible?&lt;/li&gt;
-&lt;li&gt;How can such a network incentivise participation and reward honest behaviour in the absence of trust?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The resulting work is below-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../../publication/hotnets-2022&#34;&gt;Two-sided measurements&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>5G Testbed</title>
-      <link>https://milindkumarv.com/project/research/5g-testbed/</link>
-      <pubDate>Sun, 19 Apr 2020 22:12:24 +0530</pubDate>
-      <guid>https://milindkumarv.com/project/research/5g-testbed/</guid>
-      <description>&lt;p&gt;At the Indigenous 5G Testbed at IIT Madras I have worked on several projects of which the following are of some significance.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../5g-receiver&#34;&gt;Receiver design and implementation for the Indigenous 5G Testbed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../5g-half-duplex&#34;&gt;Half-duplex system design using USRP N321&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../5g-dmrs&#34;&gt;MIMO channel estimation using PDSCH DMRS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <title>HotNets &#39;23: Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities</title>
+      <link>https://milindkumarv.com/publication/hotnets-2023/</link>
+      <pubDate>Wed, 15 Nov 2023 20:30:00 +0530</pubDate>
+      <guid>https://milindkumarv.com/publication/hotnets-2023/</guid>
+      <description></description>
     </item>
     
   </channel>

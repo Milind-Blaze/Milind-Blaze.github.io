@@ -5,12 +5,20 @@
     <link>https://milindkumarv.com/tags/5g/</link>
       <atom:link href="https://milindkumarv.com/tags/5g/index.xml" rel="self" type="application/rss+xml" />
     <description>5G</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 14:00:06 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Nov 2023 20:30:00 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>5G</title>
       <link>https://milindkumarv.com/tags/5g/</link>
     </image>
+    
+    <item>
+      <title>HotNets &#39;23: Boosting Application Performance using Heterogeneous Virtual Channels: Challenges and Opportunities</title>
+      <link>https://milindkumarv.com/publication/hotnets-2023/</link>
+      <pubDate>Wed, 15 Nov 2023 20:30:00 +0530</pubDate>
+      <guid>https://milindkumarv.com/publication/hotnets-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proof of Service: Trust-free OCS for Decentralized Cellular Networks</title>

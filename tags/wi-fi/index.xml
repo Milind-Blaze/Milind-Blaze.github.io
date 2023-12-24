@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Milind Kumar V</title>
-    <link>https://milindkumarv.com/publication_types/1/</link>
-      <atom:link href="https://milindkumarv.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Wi-Fi | Milind Kumar V</title>
+    <link>https://milindkumarv.com/tags/wi-fi/</link>
+      <atom:link href="https://milindkumarv.com/tags/wi-fi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wi-Fi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Nov 2023 20:30:00 +0530</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
-      <title>1</title>
-      <link>https://milindkumarv.com/publication_types/1/</link>
+      <title>Wi-Fi</title>
+      <link>https://milindkumarv.com/tags/wi-fi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://milindkumarv.com/publication/hotnets-2023/</link>
       <pubDate>Wed, 15 Nov 2023 20:30:00 +0530</pubDate>
       <guid>https://milindkumarv.com/publication/hotnets-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HotNets &#39;22: Trust-free service measurement and payments for decentralized cellular networks</title>
-      <link>https://milindkumarv.com/publication/hotnets-2022/</link>
-      <pubDate>Tue, 15 Nov 2022 20:30:00 +0530</pubDate>
-      <guid>https://milindkumarv.com/publication/hotnets-2022/</guid>
       <description></description>
     </item>
     
